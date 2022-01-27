@@ -4,6 +4,7 @@ import (
 	"context"
 	"fmt"
 	"io"
+	"net/http"
 	"os"
 	"strings"
 
@@ -13,8 +14,9 @@ import (
 func main() {
 	var userName = os.Getenv("USER_NAME")
 	var password = os.Getenv("PASSWORD")
-	var repository = os.Getenv("REPOSITORY")
-	var path = os.Getenv("PATH")
+
+	var TARGET_OWNER = os.Getenv("TARGET_OWNER")
+	var TARGET_REPOSITORY = os.Getenv("TARGET_REPOSITORY")
 
 	tp := github.BasicAuthTransport{
 		Username: strings.TrimSpace(userName),
@@ -22,24 +24,42 @@ func main() {
 	}
 
 	client := github.NewClient(tp.Client())
+	release, resp, err := client.Repositories.GetReleaseByTag(context.Background(), TARGET_OWNER, TARGET_REPOSITORY, "2018-07-31")
+	if err != nil {
+		fmt.Printf("Repositories.GetReleaseByTag returned error: %v\n%v\n", err, resp.Body)
+	}
 
-	readCloser, _, err := client.Repositories.DownloadContents(context.Background(), userName, repository, path, nil)
+	if len(release.Assets) < 1 {
+		fmt.Printf("NO Assets")
+		return
+	}
+
+	var toDownloadAsset *github.ReleaseAsset = nil
+	for _, asset := range release.Assets {
+		if asset.GetName() == "x86_64-full.tar.bz2" {
+			toDownloadAsset = asset
+		}
+	}
+
+	readCloser, _, err := client.Repositories.DownloadReleaseAsset(context.Background(), TARGET_OWNER, TARGET_REPOSITORY, toDownloadAsset.GetID(), http.DefaultClient)
 	if err != nil {
 		fmt.Printf("Error: %v\n", err)
 		return
 	}
-	outFile, err := os.Create(getFileName(path))
-	// handle err
+	defer readCloser.Close()
+
+	outFile, err := os.Create(toDownloadAsset.GetName())
+	if err != nil {
+		fmt.Printf("Error: %v\n", err)
+		return
+	}
 	defer outFile.Close()
+
 	_, err = io.Copy(outFile, readCloser)
 
 	if err != nil {
 		fmt.Printf("error=[%v]\n", err)
 	} else {
-		fmt.Printf("done")
+		fmt.Printf("done\n")
 	}
-}
-
-func getFileName(path string) string {
-	return path[strings.LastIndex(path, "/")+1:]
 }

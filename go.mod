@@ -1,4 +1,4 @@
-module github.com/dirkarnez/github-desktop-app-boilerplate
+module github.com/dirkarnez/cpk
 
 go 1.17
 
