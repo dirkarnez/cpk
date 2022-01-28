@@ -14,7 +14,7 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 4. `TARGET_TAG` should stick to the original versioning practice (eg. some may version "v2.5.1", some may version "2.5.1")
 5. `TARGET_LIBRARY` is the library name, it should follow the original name
 6. There should be a centralized repository store the information of prebuilt libraries (exactly like `npm`)
-7. The creation of prebuilt libraries and their repository should be automated in GitHub action
+7. The creation of prebuilt libraries and their repository should be automated in GitHub action and repository template
 8. `cpk` and the supporting library repositories should also support listing include paths for easier development in VSCode
 9. For C/C++ projects using `cpk`, there should not be any configuration files needed - `cpk` should only depend on (read / write) explicit `cmake` file complying project configuration (`find_package in CMakeLists.txt`)
 10. `cpk` should leave room for modifying third-party libraries and rebuilding prebuilts
