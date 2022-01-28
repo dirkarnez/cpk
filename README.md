@@ -1,5 +1,7 @@
 cpk
 ===
+**Work in progress**  
+
 A real stupid C/C++ package manager for own studying (intended not to use other C++ package managers available).  
 **And YES! `cpk` sounds exactly like swearing in Cantonese-mixing-English. hahaha :P**
 
@@ -18,6 +20,12 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 10. `cpk` should leave room for modifying third-party libraries and rebuilding prebuilts
 11. `cpk` should resolve dependency-related issues like nested dependency
 12. `cpk` should give hints on further setup for the projects uisng the installed libraries
+13. `cpk` should be unobtrusive, play well with unsupported libraries
+
+### How to use `cpk` in C/C++ project
+1. Prerequisites for C/C++ setup (also these compiler, git, cmake, `cpk` are in `%PATH%`)
+2. Having `cmake/modules/.gitkeep` - `cpk` assumes `cmake/modules` exists and expect to overwrite the FindXXX.cmake if applicable
+3. `cpk` assumes there are version constraints
 
 ### Supporting libraries
 - [ ] [SFML](https://github.com/dirkarnez/sfml-prebuilt), WIP
