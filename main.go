@@ -47,7 +47,7 @@ func main() {
 
 	password := string(passwordBytes)
 	
-	//var TARGET_OWNER = "dirkarnez"          //os.Getenv("TARGET_OWNER")
+	var TARGET_OWNER = "dirkarnez"          //os.Getenv("TARGET_OWNER")
 	var TARGET_REPOSITORY = "sfml-prebuilt" //fetched by libraries.yml, TARGET_OWNER also set here 
 	var TARGET_COMPILER = "mingw" // compiler is detected
 
