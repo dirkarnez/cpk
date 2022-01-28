@@ -19,7 +19,7 @@ import (
 )
 
 var (
-	cppLibrariesFolder string
+	c_cppLibrariesFolder string
 )
 
 func init() {
@@ -29,9 +29,9 @@ func init() {
 	}
 	exPath := filepath.Dir(ex)
 
-	cppLibrariesFolder = filepath.Join(exPath, "cpp_libraries")
+	c_cppLibrariesFolder = filepath.Join(exPath, "c_cpp_libraries")
 
-	if err := os.MkdirAll(cppLibrariesFolder, os.ModePerm); err != nil {
+	if err := os.MkdirAll(c_cppLibrariesFolder, os.ModePerm); err != nil {
 		log.Fatal(err)
 	}
 }
@@ -46,12 +46,10 @@ func main() {
 	}
 
 	password := string(passwordBytes)
-
-	var TARGET_OWNER = "dirkarnez"          //os.Getenv("TARGET_OWNER")
-	var TARGET_REPOSITORY = "sfml-prebuilt" //os.Getenv("TARGET_REPOSITORY")
-	//var TARGET_LIBRARY = os.Getenv("TARGET_LIBRARY")
-	//var TARGET_TAG = os.Getenv("TARGET_TAG")
-	var TARGET_COMPILER = "mingw" // os.Getenv("TARGET_COMPILER")
+	
+	//var TARGET_OWNER = "dirkarnez"          //os.Getenv("TARGET_OWNER")
+	var TARGET_REPOSITORY = "sfml-prebuilt" //fetched by libraries.yml, TARGET_OWNER also set here 
+	var TARGET_COMPILER = "mingw" // compiler is detected
 
 	wd, _ := os.Getwd()
 	fmt.Println(wd)
@@ -100,7 +98,7 @@ func main() {
 		}
 		defer readCloser.Close()
 
-		fileName := filepath.Join(cppLibrariesFolder, assetToDownload.GetName())
+		fileName := filepath.Join(c_cppLibrariesFolder, assetToDownload.GetName())
 
 		(func() {
 			outFile, err := os.Create(fileName)
@@ -118,7 +116,7 @@ func main() {
 			}
 		})()
 
-		location := filepath.Join(cppLibrariesFolder, assetToDownload.GetName()[0:len(assetToDownload.GetName())-4]) // omitting ".zip"
+		location := filepath.Join(c_cppLibrariesFolder, assetToDownload.GetName()[0:len(assetToDownload.GetName())-4]) // omitting ".zip"
 		// if err := os.MkdirAll(location, os.ModePerm); err != nil {
 		// 	log.Fatal(err)
 		// }
