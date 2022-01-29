@@ -18,7 +18,7 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 8. The creation of prebuilt libraries and their repository should be automated in GitHub action and repository template
 9. `cpk` and the supporting library repositories should also support listing include paths for easier development in VSCode
 10. For C/C++ projects using `cpk`, there should not be any configuration files needed - `cpk` should only depend on (read / write) explicit `cmake` file complying project onfiguration (`find_package` in `CMakeLists.txt`)
-11. `cpk` should leave room for modifying third-party libraries (for example: editing original `CMakeLists.txt` and may / may not submit PR and rebuilding prebuilts, including ad-hoc /private redirection of libraries
+11. `cpk` should leave room for modifying third-party libraries (for example: editing original `CMakeLists.txt` and may / may not submit PR in a **fork repo** and rebuilding prebuilts, including ad-hoc /private redirection of libraries
 13. `cpk` should resolve dependency-related issues like nested dependency
 14. `cpk` should give hints on further setup for the projects using the installed libraries
 15. `cpk` should be unobtrusive, play well with unsupported / local libraries - `cpk` should have a dedicated folder for its CMake modules fetching and configuration
