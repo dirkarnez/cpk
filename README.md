@@ -18,14 +18,14 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 8. The creation of prebuilt libraries and their repository should be automated in GitHub action and repository template
 9. `cpk` and the supporting library repositories should also support listing include paths for easier development in VSCode
 10. For C/C++ projects using `cpk`, there should not be any configuration files needed - `cpk` should only depend on (read / write) explicit `cmake` file complying project onfiguration (`find_package in CMakeLists.txt`)
-11. `cpk` should leave room for modifying third-party libraries and rebuilding prebuilts
-12. `cpk` should resolve dependency-related issues like nested dependency
-13. `cpk` should give hints on further setup for the projects using the installed libraries
-14. `cpk` should be unobtrusive, play well with unsupported / local libraries
+11. `cpk` should leave room for modifying third-party libraries and rebuilding prebuilts, including ad-hoc /private redirection of libraries
+13. `cpk` should resolve dependency-related issues like nested dependency
+14. `cpk` should give hints on further setup for the projects using the installed libraries
+15. `cpk` should be unobtrusive, play well with unsupported / local libraries - `cpk` should have a dedicated folder for its CMake modules fetching and configuration
 
 ### How to use `cpk` in C/C++ project
 1. Prerequisites for C/C++ setup (also these compiler, git, cmake, `cpk` are in `%PATH%`)
-2. Having `cmake/modules/.gitkeep` - `cpk` assumes `cmake/modules` exists and expect to overwrite the FindXXX.cmake if applicable
+2. Having `cmake/modules/.gitkeep` - `cpk` assumes `cmake/cpk_modules` exists (or warn) and expect to overwrite the FindXXX.cmake if applicable
 3. `cpk` assumes there are version constraints (exact or ranged)
 
 ### Supporting libraries
