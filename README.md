@@ -80,4 +80,5 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [ ] OpenSSL
 - [ ] RaftLib
 - [ ] GNU Scientific Library
-- [ ] elements
+- [ ] [elements](https://github.com/dirkarnez/elements-prebuilt), WIP
+    - d7106afe85fe99c28a3d7314a7ea5d3bd50e9c84
