@@ -82,3 +82,5 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [ ] OpenSSL
 - [ ] RaftLib
 - [ ] GNU Scientific Library
+- [ ] fontconfig
+- [ ] cairo
