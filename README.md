@@ -30,7 +30,9 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 
 ### Supporting libraries
 - [ ] [SFML](https://github.com/dirkarnez/sfml-prebuilt), WIP
-  - v2.5.1
+  - `v2.5.1`
+- [ ] [elements](https://github.com/dirkarnez/elements-prebuilt), WIP
+  - `cd7106afe85fe99c28a3d7314a7ea5d3bd50e9c84`
 - [ ] Boost
 - [ ] Qt
 - [ ] fltk
@@ -80,5 +82,3 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [ ] OpenSSL
 - [ ] RaftLib
 - [ ] GNU Scientific Library
-- [ ] [elements](https://github.com/dirkarnez/elements-prebuilt), WIP
-    - d7106afe85fe99c28a3d7314a7ea5d3bd50e9c84
