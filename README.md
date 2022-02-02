@@ -58,6 +58,7 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [ ] oatpp
 - [ ] OpenMP
 - [ ] gmplib
+- [ ] mpfr
 - [ ] GStreamer
 - [ ] SDL
 - [ ] TagLib
