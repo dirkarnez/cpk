@@ -85,6 +85,7 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [ ] Bcrypt
 - [ ] curl
 - [ ] OpenSSL
+    - https://github.com/janbar/openssl-cmake
 - [ ] RaftLib
 - [ ] GNU Scientific Library
 - [ ] fontconfig
