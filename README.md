@@ -80,7 +80,8 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [ ] CGAL
 - [ ] ZLib
 - [ ] CUDA
-- [ ] yaml-cpp
+- [ ] [jbeder/yaml-cpp](https://github.com/dirkarnez/yaml-cpp-prebuilt), WIP
+    - `v0.7.0`
 - [ ] lua
 - [ ] Bcrypt
 - [ ] curl
