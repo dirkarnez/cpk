@@ -21,7 +21,7 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 11. `cpk` should leave room for modifying third-party libraries (for example: editing original `CMakeLists.txt` and may / may not submit PR in a **fork repo** and rebuilding prebuilts, including ad-hoc /private redirection of libraries
 13. `cpk` should resolve dependency-related issues like nested dependency
 14. `cpk` should give hints (using CMake macros?) on further setup for the projects using the installed libraries
-15. `cpk` should be unobtrusive, play well with unsupported / local libraries - `cpk` should have a dedicated folder for its CMake modules fetching and configuration
+15. `cpk` should be unobtrusive, play well with unsupported / local libraries - `cpk` should have a dedicated folder for its CMake modules fetching and configuration (use `CMAKE_INSTALL_PREFIX`?)
 
 ### How to use `cpk` in C/C++ project
 1. Prerequisites for C/C++ setup (also these compiler, git, cmake, `cpk` are in `%PATH%`)
