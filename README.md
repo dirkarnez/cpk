@@ -37,6 +37,8 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
     - `v1.4`
 - [ ] [GiovanniDicanio/WinReg](https://github.com/dirkarnez/WinReg-prebuilt), WIP
     - `v4.1.2`
+- [ ] [sciplot/sciplot](https://github.com/dirkarnez/sciplot-prebuilt), WIP
+    - `v0.2.2`
 - [ ] Boost
 - [ ] Qt
 - [ ] fltk
