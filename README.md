@@ -52,6 +52,7 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [ ] Simd
 - [ ] gettext
 - [ ] cpp-netlib
+- [ ] [pybind/pybind11: Seamless operability between C++11 and Python](https://github.com/pybind/pybind11)
 - [ ] https://github.com/snakster/cpp.react
 - [ ] IBM ICU
 - [ ] libiconv
