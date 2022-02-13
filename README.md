@@ -93,3 +93,6 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [ ] GNU Scientific Library
 - [ ] fontconfig
 - [ ] cairo
+- [ ] [hselasky/libumidi: MIDI file and interface library](https://github.com/hselasky/libumidi)
+- [ ] [hselasky/midipp: MIDI Player Pro](https://github.com/hselasky/midipp)
+- [ ] [hselasky/jack_umidi: Raw MIDI to JACK daemon](https://github.com/hselasky/jack_umidi)
