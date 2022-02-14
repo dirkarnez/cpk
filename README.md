@@ -52,6 +52,7 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [ ] libpng
 - [ ] OpenCV
 - [ ] Magick++
+- [ ] https://github.com/facebook/folly
 - [ ] Simd
 - [ ] gettext
 - [ ] cpp-netlib
