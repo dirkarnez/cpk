@@ -41,7 +41,8 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
     - `v0.2.2`
 - [ ] Boost
 - [ ] Qt
-- [ ] fltk
+- [ ] [fltk/fltk](https://github.com/dirkarnez/fltk-prebuilt), WIP
+    - `v1.3.8`
 - [ ] CImg
 - [ ] https://github.com/mlpack/mlpack
 - [ ] glfw
