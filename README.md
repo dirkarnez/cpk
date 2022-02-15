@@ -49,8 +49,8 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [ ] QuantLib
 - [ ] UnQLite
 - [ ] sqlite
-- [ ] [adeharo9/cpp-dotenv](https://github.com/dirkarnez/cpp-dotenv-prebuilt), WIP
-    - `v0.2.0`
+- [ ] [laserpants/dotenv-cpp](https://github.com/dirkarnez/dotenv-cpp-prebuilt), WIP
+    - `cca1d543f78702921dbb398c865806b71dedfd2eb`
 - [ ] libjpeg
 - [ ] libpng
 - [ ] OpenCV
