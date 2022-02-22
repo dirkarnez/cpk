@@ -105,3 +105,6 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [ ] [hselasky/libumidi: MIDI file and interface library](https://github.com/hselasky/libumidi)
 - [ ] [hselasky/midipp: MIDI Player Pro](https://github.com/hselasky/midipp)
 - [ ] [hselasky/jack_umidi: Raw MIDI to JACK daemon](https://github.com/hselasky/jack_umidi)
+- [ ] [libjpeg-turbo/libjpeg-turbo: Main libjpeg-turbo repository](https://github.com/libjpeg-turbo/libjpeg-turbo)
+- [ ] [harfbuzz/harfbuzz: HarfBuzz text shaping engine](https://github.com/harfbuzz/harfbuzz)
+- [ ] [freetype/freetype: Official mirror of https://gitlab.freedesktop.org/freetype/freetype](https://github.com/freetype/freetype)
