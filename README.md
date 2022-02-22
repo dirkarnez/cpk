@@ -82,6 +82,7 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [ ] https://github.com/GHamrouni/Recommender
 - [ ] Eigen
 - [ ] https://github.com/softwareQinc/qpp
+- [ ] https://github.com/libevent/libevent
 - [ ] https://github.com/the-tcpdump-group/libpcap
 - [ ] FFTW
 - [ ] https://github.com/protocolbuffers/protobuf
