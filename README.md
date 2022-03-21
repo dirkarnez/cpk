@@ -68,6 +68,7 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [ ] [oatpp/oatpp](https://github.com/dirkarnez/oatpp-prebuilt), WIP
     - `v1.3.0`
 - [ ] OpenMP
+- [ ] https://github.com/steven-varga/h5cpp
 - [ ] gmplib
 - [ ] mpfr
 - [ ] GStreamer
