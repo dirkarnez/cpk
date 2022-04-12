@@ -44,6 +44,7 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [ ] [fltk/fltk](https://github.com/dirkarnez/fltk-prebuilt), WIP
     - `v1.3.8`
 - [ ] CImg
+- [ ] [antirez/sds](https://github.com/dirkarnez/sds-prebuilt), **non-cmake** repo, **WIP**
 - [ ] https://github.com/mlpack/mlpack
 - [ ] glfw
 - [ ] QuantLib
