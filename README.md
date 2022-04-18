@@ -52,6 +52,7 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [ ] sqlite
 - [ ] [laserpants/dotenv-cpp](https://github.com/dirkarnez/dotenv-cpp-prebuilt), WIP
     - `cca1d543f78702921dbb398c865806b71dedfd2eb`
+- [ ] [Armadillo: C++ library for linear algebra & scientific computing](http://arma.sourceforge.net/)
 - [ ] libjpeg
 - [ ] libpng
 - [ ] OpenCV
