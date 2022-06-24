@@ -45,6 +45,8 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
     - `v11.1.1`
 - [ ] [fltk/fltk](https://github.com/dirkarnez/fltk-prebuilt), WIP
     - `v1.3.8`
+- [ ] [craigsapp/midifile](https://github.com/dirkarnez/midifile-prebuilt), WIP
+    - `cf7ded879139061c41631797e5b735d6d5ceee23e`
 - [ ] CImg
 - [ ] [antirez/sds](https://github.com/dirkarnez/sds-prebuilt), **non-cmake** repo, **WIP**
 - [ ] https://github.com/mlpack/mlpack
