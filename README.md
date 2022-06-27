@@ -80,7 +80,8 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [ ] gmplib
 - [ ] mpfr
 - [ ] GStreamer
-- [ ] SDL
+- [ ] [libsdl-org/SDL](https://github.com/dirkarnez/sdl-prebuilt), WIP
+    - `v2.0.2`
 - [ ] TagLib
 - [ ] cpprestsdk
 - [ ] https://github.com/google/brotli
