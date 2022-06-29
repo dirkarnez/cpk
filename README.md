@@ -49,6 +49,12 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
     - `cf7ded879139061c41631797e5b735d6d5ceee23e`
 - [ ] CImg
 - [ ] [antirez/sds](https://github.com/dirkarnez/sds-prebuilt), **non-cmake** repo, **WIP**
+- [ ] [kuafuwang/LspCpp](https://github.com/dirkarnez/lspcpp-prebuilt), WIP
+    - `c6e280bccc1df85527089abcd8a37098b0d6c1eb9`
+    - [dirkarnez/lspcpp-boilerplate](https://github.com/dirkarnez/lspcpp-boilerplate)
+- [ ] [fuzzylite/fuzzylite](https://github.com/dirkarnez/fuzzylite-prebuilt), **WIP**
+    - `v6.0`
+    - [dirkarnez/fuzzylite-boilerplate](https://github.com/dirkarnez/fuzzylite-boilerplate)
 - [ ] https://github.com/mlpack/mlpack
 - [ ] glfw
 - [ ] QuantLib
