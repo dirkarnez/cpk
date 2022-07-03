@@ -79,6 +79,8 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [ ] libiconv
 - [ ] DataFrame
 - [ ] PortAudio
+- [ ] [FFTW/fftw3](https://github.com/dirkarnez/fftw3-prebuilt), WIP
+    - `v3.3.10`
 - [ ] [oatpp/oatpp](https://github.com/dirkarnez/oatpp-prebuilt), WIP
     - `v1.3.0`
 - [ ] OpenMP
@@ -100,7 +102,6 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [ ] https://github.com/softwareQinc/qpp
 - [ ] https://github.com/libevent/libevent
 - [ ] https://github.com/the-tcpdump-group/libpcap
-- [ ] FFTW
 - [ ] https://github.com/protocolbuffers/protobuf
 - [ ] https://github.com/USCiLab/cereal
 - [ ] ffmpeg
