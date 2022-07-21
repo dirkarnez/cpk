@@ -47,7 +47,8 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
     - `v1.3.8`
 - [ ] [craigsapp/midifile](https://github.com/dirkarnez/midifile-prebuilt), WIP
     - `cf7ded879139061c41631797e5b735d6d5ceee23e`
-- [ ] [FreeGLUTProject/freeglut: Free implementation of the OpenGL Utility Toolkit (GLUT)](https://github.com/FreeGLUTProject/freeglut)
+- [ ] [FreeGLUTProject/freeglut](https://github.com/dirkarnez/freeglut-prebuilt)), WIP
+    - `v3.2.2`
 - [ ] CImg
 - [ ] [antirez/sds](https://github.com/dirkarnez/sds-prebuilt), **non-cmake** repo, **WIP**
 - [ ] [kuafuwang/LspCpp](https://github.com/dirkarnez/lspcpp-prebuilt), WIP
