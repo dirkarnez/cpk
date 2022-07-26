@@ -51,6 +51,8 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
     - `cf7ded879139061c41631797e5b735d6d5ceee23e`
 - [ ] [FreeGLUTProject/freeglut](https://github.com/dirkarnez/freeglut-prebuilt), WIP
     - `v3.2.2`
+- [ ] [libjpeg-turbo/libjpeg-turbo](https://github.com/dirkarnez/libjpeg-turbo-prebuilt), WIP
+    - `v2.1.3`
 - [ ] CImg
 - [ ] [antirez/sds](https://github.com/dirkarnez/sds-prebuilt), **non-cmake** repo, **WIP**
 - [ ] [kuafuwang/LspCpp](https://github.com/dirkarnez/lspcpp-prebuilt), WIP
@@ -127,6 +129,5 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [ ] [hselasky/libumidi: MIDI file and interface library](https://github.com/hselasky/libumidi)
 - [ ] [hselasky/midipp: MIDI Player Pro](https://github.com/hselasky/midipp)
 - [ ] [hselasky/jack_umidi: Raw MIDI to JACK daemon](https://github.com/hselasky/jack_umidi)
-- [ ] [libjpeg-turbo/libjpeg-turbo: Main libjpeg-turbo repository](https://github.com/libjpeg-turbo/libjpeg-turbo)
 - [ ] [harfbuzz/harfbuzz: HarfBuzz text shaping engine](https://github.com/harfbuzz/harfbuzz)
 - [ ] [freetype/freetype: Official mirror of https://gitlab.freedesktop.org/freetype/freetype](https://github.com/freetype/freetype)
