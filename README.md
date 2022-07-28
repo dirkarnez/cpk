@@ -66,6 +66,14 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [ ] QuantLib
 - [ ] UnQLite
 - [ ] sqlite
+- [ ] [open-mpi/ompi: Open MPI main development repository](https://github.com/open-mpi/ompi)
+- [ ] [OpenMP/sources: This repository contains supplementary source code for the OpenMP(R) API Specification.](https://github.com/OpenMP/sources)
+- [ ] [oneapi-src/oneTBB: oneAPI Threading Building Blocks (oneTBB)](https://github.com/oneapi-src/oneTBB)
+- [ ] [oneapi-src/oneDNN: oneAPI Deep Neural Network Library (oneDNN)](https://github.com/oneapi-src/oneDNN)
+- [ ] [oneapi-src/oneCCL: oneAPI Collective Communications Library (oneCCL)](https://github.com/oneapi-src/oneCCL)
+- [ ] [oneapi-src/oneDAL: oneAPI Data Analytics Library (oneDAL)](https://github.com/oneapi-src/oneDAL)
+- [ ] [oneapi-src/oneMKL: oneAPI Math Kernel Library (oneMKL) Interfaces](https://github.com/oneapi-src/oneMKL)
+- [ ] [oneapi-src/oneDPL: oneAPI DPC++ Library (oneDPL) https://software.intel.com/content/www/us/en/develop/tools/oneapi/components/dpc-library.html](https://github.com/oneapi-src/oneDPL)
 - [ ] [laserpants/dotenv-cpp](https://github.com/dirkarnez/dotenv-cpp-prebuilt), WIP
     - `cca1d543f78702921dbb398c865806b71dedfd2eb`
 - [ ] [Armadillo: C++ library for linear algebra & scientific computing](http://arma.sourceforge.net/)
