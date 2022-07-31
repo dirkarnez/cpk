@@ -97,6 +97,8 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
     - `v3.3.10`
 - [ ] [oatpp/oatpp](https://github.com/dirkarnez/oatpp-prebuilt), WIP
     - `v1.3.0`
+- [ ] [madler/zlib](https://github.com/dirkarnez/zlib-prebuilt), WIP
+    - `v1.2.12`
 - [ ] OpenMP
 - [ ] https://github.com/steven-varga/h5cpp
 - [ ] gmplib
@@ -121,7 +123,6 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [ ] ffmpeg
 - [ ] https://github.com/jakogut/tinyvm
 - [ ] CGAL
-- [ ] ZLib
 - [ ] CUDA
 - [ ] [jbeder/yaml-cpp](https://github.com/dirkarnez/yaml-cpp-prebuilt), WIP
     - `v0.7.0`
