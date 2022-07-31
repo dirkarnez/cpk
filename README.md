@@ -78,7 +78,8 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
     - `cca1d543f78702921dbb398c865806b71dedfd2eb`
 - [ ] [Armadillo: C++ library for linear algebra & scientific computing](http://arma.sourceforge.net/)
 - [ ] libjpeg
-- [ ] libpng
+- [ ] [glennrp/libpng](https://github.com/dirkarnez/libpng-prebuilt), WIP
+    - `v1.6.34`
 - [ ] [qgis/QGIS: QGIS is a free, open source, cross platform (lin/win/mac) geographical information system (GIS)](https://github.com/qgis/QGIS)
 - [ ] [graphql/libgraphqlparser: A GraphQL query parser in C++ with C and C++ APIs](https://github.com/graphql/libgraphqlparser)
 - [ ] OpenCV
