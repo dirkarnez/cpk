@@ -63,6 +63,7 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
     - [dirkarnez/fuzzylite-boilerplate](https://github.com/dirkarnez/fuzzylite-boilerplate)
 - [ ] https://github.com/mlpack/mlpack
 - [ ] glfw
+- [ ] [OGRECave/ogre-next](https://github.com/OGRECave/ogre-next)
 - [ ] QuantLib
 - [ ] UnQLite
 - [ ] sqlite
