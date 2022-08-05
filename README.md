@@ -53,6 +53,8 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
     - `cf7ded879139061c41631797e5b735d6d5ceee23e`
 - [ ] [FreeGLUTProject/freeglut](https://github.com/dirkarnez/freeglut-prebuilt), WIP
     - `v3.2.2`
+- [ ] [taocpp/PEGTL](https://github.com/dirkarnez/pegtl-prebuilt), WIP
+    - `v3.2.7`
 - [ ] [libjpeg-turbo/libjpeg-turbo](https://github.com/dirkarnez/libjpeg-turbo-prebuilt), WIP
     - `v2.1.3`
 - [ ] CImg
