@@ -122,7 +122,8 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [ ] Dlib 
 - [ ] darknet
 - [ ] https://github.com/GHamrouni/Recommender
-- [ ] Eigen
+- [ ] [libeigen / eigen · GitLab](https://github.com/dirkarnez/eigen-prebuilt), WIP
+    - `v3.4.0`
 - [ ] https://github.com/softwareQinc/qpp
 - [ ] https://github.com/libevent/libevent
 - [ ] https://github.com/the-tcpdump-group/libpcap
