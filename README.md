@@ -41,7 +41,7 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
     - `v0.2.2`
 - [ ] Boost
 - [ ] [LibreDWG/libredwg](https://github.com/dirkarnez/libredwg-prebuilt), WIP
-    - `v0.12.5`
+    - `ce32962da3f247937f6355f80a113ea716016e998`
 - [ ] [JagPDF - Downloads](http://www.jagpdf.org/downloads.htm)
     - [MAGANER/PdfBuilder: markdown-like language to generate pdf documents.](https://github.com/MAGANER/PdfBuilder)
 - [ ] Qt
