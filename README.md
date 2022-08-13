@@ -119,7 +119,8 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [ ] https://github.com/google/brotli
 - [ ] Google tests
 - [ ] gRPC
-- [ ] Dlib 
+- [ ] [davisking/dlib](https://github.com/dirkarnez/dlib-prebuilt), WIP
+    - `v19.24`
 - [ ] darknet
 - [ ] https://github.com/GHamrouni/Recommender
 - [ ] [libeigen / eigen · GitLab](https://github.com/dirkarnez/eigen-prebuilt), WIP
