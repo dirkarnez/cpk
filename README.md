@@ -144,6 +144,19 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [ ] RaftLib
 - [ ] GNU Scientific Library
 - [ ] fontconfig
+- [ ] [electronicarts/EASTL: EASTL stands for Electronic Arts Standard Template Library. It is an extensive and robust implementation that has an emphasis on high performance.](https://github.com/electronicarts/EASTL)
+- [ ] [ETLCPP/etl: Embedded Template Library](https://github.com/ETLCPP/etl)
+- [ ] [jfalcou/eve: Expressive Vector Engine - SIMD in C++ Goes Brrrr](https://github.com/jfalcou/eve)
+- [ ] [g-truc/glm: OpenGL Mathematics (GLM)](https://github.com/g-truc/glm)
+- [ ] [HDFGroup/hdf5: Official HDF5® Library Repository](https://github.com/HDFGroup/hdf5)  
+- [ ] [oneapi-src/oneTBB: oneAPI Threading Building Blocks (oneTBB)](https://github.com/oneapi-src/oneTBB)
+- [ ] [modm-io/avr-libstdcpp: Subset of the C++ standard library for AVR targets](https://github.com/modm-io/avr-libstdcpp)
+- [ ] [webview/webview: Tiny cross-platform webview library for C/C++/Golang. Uses WebKit (Gtk/Cocoa) and Edge (Windows)](https://github.com/webview/webview)
+- [ ] [andrew-gresyk/HFSM2: High-Performance Hierarchical Finite State Machine Framework](https://github.com/andrew-gresyk/HFSM2)
+- [ ] [agenium-scale/nsimd: Agenium Scale vectorization library for CPUs and GPUs](https://github.com/agenium-scale/nsimd/)
+- [ ] [jfalcou/eve: Expressive Vector Engine - SIMD in C++ Goes Brrrr](https://github.com/jfalcou/eve)
+- [ ] [libuv/libuv: Cross-platform asynchronous I/O](https://github.com/libuv/libuv)
+- [ ] [dmlc/xgboost: Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow](https://github.com/dmlc/xgboost)
 - [ ] cairo
 - [ ] [hselasky/libumidi: MIDI file and interface library](https://github.com/hselasky/libumidi)
 - [ ] [hselasky/midipp: MIDI Player Pro](https://github.com/hselasky/midipp)
