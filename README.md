@@ -60,6 +60,8 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [ ] CImg
 - [ ] [bblanchon/ArduinoJson](https://github.com/dirkarnez/arduinojson-prebuilt), WIP
     - `v6.19.4`
+- [ ] [chemfiles/chemfiles](https://github.com/dirkarnez/chemfiles-prebuilt), WIP
+    - `v0.10.2`
 - [ ] [antirez/sds](https://github.com/dirkarnez/sds-prebuilt), **non-cmake** repo, **WIP**
 - [ ] [kuafuwang/LspCpp](https://github.com/dirkarnez/lspcpp-prebuilt), WIP
     - `c6e280bccc1df85527089abcd8a37098b0d6c1eb9`
