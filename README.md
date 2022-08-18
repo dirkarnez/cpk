@@ -47,6 +47,7 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [ ] Qt
 - [ ] [armadillo](https://github.com/dirkarnez/armadillo-prebuilt), WIP
     - `v11.1.1`
+- [ ] [**alecthomas/entityx**](https://github.com/alecthomas/entityx)
 - [ ] [fltk/fltk](https://github.com/dirkarnez/fltk-prebuilt), WIP
     - `v1.3.8`
 - [ ] [craigsapp/midifile](https://github.com/dirkarnez/midifile-prebuilt), WIP
