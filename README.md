@@ -45,6 +45,7 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [ ] [JagPDF - Downloads](http://www.jagpdf.org/downloads.htm)
     - [MAGANER/PdfBuilder: markdown-like language to generate pdf documents.](https://github.com/MAGANER/PdfBuilder)
 - [ ] Qt
+- [ ] [verilator/verilator: Verilator open-source SystemVerilog simulator and lint system](https://github.com/verilator/verilator)
 - [ ] [armadillo](https://github.com/dirkarnez/armadillo-prebuilt), WIP
     - `v11.1.1`
 - [ ] [**alecthomas/entityx**](https://github.com/alecthomas/entityx)
