@@ -48,6 +48,9 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [ ] [armadillo](https://github.com/dirkarnez/armadillo-prebuilt), WIP
     - `v11.1.1`
 - [ ] [**alecthomas/entityx**](https://github.com/alecthomas/entityx)
+- [ ] [jackaudio/jack2: jack2 codebase](https://github.com/jackaudio/jack2)
+- [ ] [PortAudio/portaudio: PortAudio is a cross-platform, open-source C language library for real-time audio input and output.](https://github.com/PortAudio/portaudio)
+- [ ] [alsa-project/alsa-lib: The Advanced Linux Sound Architecture (ALSA) - library](https://github.com/alsa-project/alsa-lib)
 - [ ] [fltk/fltk](https://github.com/dirkarnez/fltk-prebuilt), WIP
     - `v1.3.8`
 - [ ] [craigsapp/midifile](https://github.com/dirkarnez/midifile-prebuilt), WIP
