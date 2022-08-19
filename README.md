@@ -51,6 +51,7 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
     - `v11.1.1`
 - [ ] [**alecthomas/entityx**](https://github.com/alecthomas/entityx)
 - [ ] [jackaudio/jack2: jack2 codebase](https://github.com/jackaudio/jack2)
+- [ ] [cartographer-project/cartographer: Cartographer is a system that provides real-time simultaneous localization and mapping (SLAM) in 2D and 3D across multiple platforms and sensor configurations.](https://github.com/cartographer-project/cartographer)
 - [ ] [PortAudio/portaudio: PortAudio is a cross-platform, open-source C language library for real-time audio input and output.](https://github.com/PortAudio/portaudio)
 - [ ] [alsa-project/alsa-lib: The Advanced Linux Sound Architecture (ALSA) - library](https://github.com/alsa-project/alsa-lib)
 - [ ] [catchorg/Catch2](https://github.com/dirkarnez/catch2-prebuilt), WIP
