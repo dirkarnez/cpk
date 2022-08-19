@@ -47,6 +47,7 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [ ] Qt
 - [ ] [verilator/verilator: Verilator open-source SystemVerilog simulator and lint system](https://github.com/verilator/verilator)
 - [ ] [llvm-project/pstl at main · llvm/llvm-project](https://github.com/llvm/llvm-project/tree/main/pstl)
+- [ ] [google/fhir: FHIR Protocol Buffers](https://github.com/google/fhir)
 - [ ] [armadillo](https://github.com/dirkarnez/armadillo-prebuilt), WIP
     - `v11.1.1`
 - [ ] [**alecthomas/entityx**](https://github.com/alecthomas/entityx)
