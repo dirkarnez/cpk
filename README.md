@@ -102,7 +102,7 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [ ] [qgis/QGIS: QGIS is a free, open source, cross platform (lin/win/mac) geographical information system (GIS)](https://github.com/qgis/QGIS)
 - [ ] [graphql/libgraphqlparser: A GraphQL query parser in C++ with C and C++ APIs](https://github.com/graphql/libgraphqlparser)
 - [ ] [opencv/opencv](https://github.com/dirkarnez/opencv-prebuilt), WIP
-    - `v4.5.5`
+    - `ce14c3cff856ad0f56fb14a5e59f9bb9849555903`
 - [ ] Magick++
 - [ ] https://github.com/facebook/folly
 - [ ] Simd
