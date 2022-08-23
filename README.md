@@ -40,11 +40,23 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [ ] [sciplot/sciplot](https://github.com/dirkarnez/sciplot-prebuilt), WIP
     - `v0.2.2`
 - [ ] Boost
+- [ ] [bloomberg/bde: Basic Development Environment - a set of foundational C++ libraries used at Bloomberg.](https://github.com/bloomberg/bde)
+- [ ] [facebook/watchman: Watches files and records, or triggers actions, when they change.](https://github.com/facebook/watchman)
+- [ ] [facebook/yoga: Yoga is a cross-platform layout engine which implements Flexbox. Follow https://twitter.com/yogalayout for updates.](https://github.com/facebook/yoga)
+- [ ] [facebook/fboss: Facebook Open Switching System Software for controlling network switches.](https://github.com/facebook/fboss)
+- [ ] [facebook/wangle: Wangle is a framework providing a set of common client/server abstractions for building services in a consistent, modular, and composable way.](https://github.com/facebook/wangle)
+- [ ] [facebook/kuduraft: A Raft Library in C++ based on the Raft implementation in Apache Kudu](https://github.com/facebook/kuduraft)
+- [ ] [facebook/fatal: Fatal is a library for fast prototyping software in modern C++. It provides facilities to enhance the expressive power of C++. The library is heavily based on template meta-programming, while keeping the complexity under-the-hood.](https://github.com/facebook/fatal)
+- [ ] [facebook/folly: An open-source C++ library developed and used at Facebook.](https://github.com/facebook/folly)
+- [ ] [unicode-org/icu: The new home of the ICU project source code.](https://github.com/unicode-org/icu)
+- [ ] [google/skia: Skia is a complete 2D graphic library for drawing Text, Geometries, and Images.](https://github.com/google/skia)
+- [ ] [apache/xerces-c: Apache Xerces-C validating XML parser](https://github.com/apache/xerces-c)
 - [ ] [LibreDWG/libredwg](https://github.com/dirkarnez/libredwg-prebuilt), WIP
     - `ce32962da3f247937f6355f80a113ea716016e998`
 - [ ] [JagPDF - Downloads](http://www.jagpdf.org/downloads.htm)
     - [MAGANER/PdfBuilder: markdown-like language to generate pdf documents.](https://github.com/MAGANER/PdfBuilder)
 - [ ] Qt
+- [ ] [google/double-conversion: Efficient binary-decimal and decimal-binary conversion routines for IEEE doubles.](https://github.com/google/double-conversion)
 - [ ] [verilator/verilator: Verilator open-source SystemVerilog simulator and lint system](https://github.com/verilator/verilator)
 - [ ] [llvm-project/pstl at main · llvm/llvm-project](https://github.com/llvm/llvm-project/tree/main/pstl)
 - [ ] [google/fhir: FHIR Protocol Buffers](https://github.com/google/fhir)
@@ -110,7 +122,6 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [ ] cpp-netlib
 - [ ] [pybind/pybind11: Seamless operability between C++11 and Python](https://github.com/pybind/pybind11)
 - [ ] https://github.com/snakster/cpp.react
-- [ ] IBM ICU
 - [ ] libiconv
 - [ ] DataFrame
 - [ ] PortAudio
