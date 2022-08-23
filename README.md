@@ -50,7 +50,9 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [ ] [facebook/fatal: Fatal is a library for fast prototyping software in modern C++. It provides facilities to enhance the expressive power of C++. The library is heavily based on template meta-programming, while keeping the complexity under-the-hood.](https://github.com/facebook/fatal)
 - [ ] [facebook/folly: An open-source C++ library developed and used at Facebook.](https://github.com/facebook/folly)
 - [ ] [unicode-org/icu: The new home of the ICU project source code.](https://github.com/unicode-org/icu)
+    - https://github.com/LibCMaker/ICU_CMake_Files
 - [ ] [google/skia: Skia is a complete 2D graphic library for drawing Text, Geometries, and Images.](https://github.com/google/skia)
+    - https://github.com/LibCMaker/LibCMaker_Skia
 - [ ] [apache/xerces-c: Apache Xerces-C validating XML parser](https://github.com/apache/xerces-c)
 - [ ] [LibreDWG/libredwg](https://github.com/dirkarnez/libredwg-prebuilt), WIP
     - `ce32962da3f247937f6355f80a113ea716016e998`
@@ -164,11 +166,13 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [ ] lua
 - [ ] Bcrypt
 - [ ] curl
+- [ ] [manticoresoftware/manticoresearch: Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK soon](https://github.com/manticoresoftware/manticoresearch/)
 - [ ] OpenSSL
     - https://github.com/janbar/openssl-cmake
-- [ ] RaftLib
+- [ ] [RaftLib/RaftLib: The RaftLib C++ library, streaming/dataflow concurrency via C++ iostream-like operators](https://github.com/RaftLib/RaftLib)
 - [ ] GNU Scientific Library
-- [ ] fontconfig
+- [ ] [freedesktop/fontconfig: Font customization and configuration library](https://github.com/freedesktop/fontconfig)
+    - https://github.com/LibCMaker/LibCMaker_FontConfig
 - [ ] [electronicarts/EASTL: EASTL stands for Electronic Arts Standard Template Library. It is an extensive and robust implementation that has an emphasis on high performance.](https://github.com/electronicarts/EASTL)
 - [ ] [ETLCPP/etl: Embedded Template Library](https://github.com/ETLCPP/etl)
 - [ ] [jfalcou/eve: Expressive Vector Engine - SIMD in C++ Goes Brrrr](https://github.com/jfalcou/eve)
