@@ -57,7 +57,7 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [ ] [JagPDF - Downloads](http://www.jagpdf.org/downloads.htm)
     - [MAGANER/PdfBuilder: markdown-like language to generate pdf documents.](https://github.com/MAGANER/PdfBuilder)
 - [ ] Qt
-- [ ] [google/double-conversion: Efficient binary-decimal and decimal-binary conversion routines for IEEE doubles.](https://github.com/google/double-conversion)
+- [ ] [google/double-conversion](https://github.com/dirkarnez/double-conversion-prebuilt)
 - [ ] [verilator/verilator: Verilator open-source SystemVerilog simulator and lint system](https://github.com/verilator/verilator)
 - [ ] [llvm-project/pstl at main · llvm/llvm-project](https://github.com/llvm/llvm-project/tree/main/pstl)
 - [ ] [google/fhir: FHIR Protocol Buffers](https://github.com/google/fhir)
