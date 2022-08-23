@@ -40,6 +40,7 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [ ] [sciplot/sciplot](https://github.com/dirkarnez/sciplot-prebuilt), WIP
     - `v0.2.2`
 - [ ] Boost
+- [ ] [gnuradio/gnuradio: GNU Radio – the Free and Open Software Radio Ecosystem](https://github.com/gnuradio/gnuradio)
 - [ ] [bloomberg/bde: Basic Development Environment - a set of foundational C++ libraries used at Bloomberg.](https://github.com/bloomberg/bde)
 - [ ] [facebook/watchman: Watches files and records, or triggers actions, when they change.](https://github.com/facebook/watchman)
 - [ ] [facebook/yoga: Yoga is a cross-platform layout engine which implements Flexbox. Follow https://twitter.com/yogalayout for updates.](https://github.com/facebook/yoga)
