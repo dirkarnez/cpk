@@ -40,6 +40,10 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [ ] [sciplot/sciplot](https://github.com/dirkarnez/sciplot-prebuilt), WIP
     - `v0.2.2`
 - [ ] Boost
+- [ ] [audionamix/wave: Simple C++ library for reading and writting wave files](https://github.com/audionamix/wave)
+- [ ] [audionamix/auconv: An audio file conversion library](https://github.com/audionamix/auconv)
+- [ ] [audionamix/rtff: A real time frequential filtering library](https://github.com/audionamix/rtff)
+- [ ] [AshampooSystems/boden: Purely native C++ cross-platform GUI framework for Android and iOS development. https://www.boden.io](https://github.com/AshampooSystems/boden/)
 - [ ] [gnuradio/gnuradio: GNU Radio – the Free and Open Software Radio Ecosystem](https://github.com/gnuradio/gnuradio)
 - [ ] [bloomberg/bde: Basic Development Environment - a set of foundational C++ libraries used at Bloomberg.](https://github.com/bloomberg/bde)
 - [ ] [facebook/watchman: Watches files and records, or triggers actions, when they change.](https://github.com/facebook/watchman)
