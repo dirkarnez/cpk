@@ -157,7 +157,9 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [ ] [libeigen / eigen · GitLab](https://github.com/dirkarnez/eigen-prebuilt), WIP
     - `v3.4.0`
 - [ ] https://github.com/softwareQinc/qpp
+- [ ] https://github.com/Mbed-TLS/mbedtls
 - [ ] https://github.com/libevent/libevent
+    - https://github.com/dirkarnez/libevent-prebuilt
 - [ ] https://github.com/the-tcpdump-group/libpcap
 - [ ] https://github.com/protocolbuffers/protobuf
 - [ ] https://github.com/USCiLab/cereal
