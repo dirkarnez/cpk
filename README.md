@@ -60,6 +60,7 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [ ] [facebook/folly: An open-source C++ library developed and used at Facebook.](https://github.com/facebook/folly)
 - [ ] [unicode-org/icu: The new home of the ICU project source code.](https://github.com/unicode-org/icu)
     - https://github.com/LibCMaker/ICU_CMake_Files
+- [ ] [libharu/libharu: libharu - free PDF library](https://github.com/libharu/libharu)
 - [ ] [google/skia: Skia is a complete 2D graphic library for drawing Text, Geometries, and Images.](https://github.com/google/skia)
     - https://github.com/LibCMaker/LibCMaker_Skia
 - [ ] [apache/xerces-c: Apache Xerces-C validating XML parser](https://github.com/apache/xerces-c)
