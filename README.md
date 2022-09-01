@@ -52,6 +52,7 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [ ] [facebook/wangle: Wangle is a framework providing a set of common client/server abstractions for building services in a consistent, modular, and composable way.](https://github.com/facebook/wangle)
 - [ ] [pdfium - Git at Google](https://pdfium.googlesource.com/pdfium/)
 - [ ] [g-truc/glm: OpenGL Mathematics (GLM)](https://github.com/g-truc/glm)
+- [ ] [OpenVPN/openvpn: OpenVPN is an open source VPN daemon](https://github.com/OpenVPN/openvpn)
 - [ ] [MetaLogic Inference - Summary [Savannah]](https://savannah.gnu.org/projects/metalogic-inference)
 - [ ] [v8/v8: The official mirror of the V8 Git repository](https://github.com/v8/v8)
 - [ ] [openMVG/openMVG: open Multiple View Geometry library. Basis for 3D computer vision and Structure from Motion.](https://github.com/openMVG/openMVG)
