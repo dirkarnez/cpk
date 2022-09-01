@@ -54,6 +54,7 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [ ] [g-truc/glm: OpenGL Mathematics (GLM)](https://github.com/g-truc/glm)
 - [ ] [MetaLogic Inference - Summary [Savannah]](https://savannah.gnu.org/projects/metalogic-inference)
 - [ ] [v8/v8: The official mirror of the V8 Git repository](https://github.com/v8/v8)
+- [ ] [openMVG/openMVG: open Multiple View Geometry library. Basis for 3D computer vision and Structure from Motion.](https://github.com/openMVG/openMVG)
 - [ ] [facebook/kuduraft: A Raft Library in C++ based on the Raft implementation in Apache Kudu](https://github.com/facebook/kuduraft)
 - [ ] [facebook/fatal: Fatal is a library for fast prototyping software in modern C++. It provides facilities to enhance the expressive power of C++. The library is heavily based on template meta-programming, while keeping the complexity under-the-hood.](https://github.com/facebook/fatal)
 - [ ] [facebook/folly: An open-source C++ library developed and used at Facebook.](https://github.com/facebook/folly)
