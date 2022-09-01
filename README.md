@@ -50,6 +50,8 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [ ] [facebook/yoga: Yoga is a cross-platform layout engine which implements Flexbox. Follow https://twitter.com/yogalayout for updates.](https://github.com/facebook/yoga)
 - [ ] [facebook/fboss: Facebook Open Switching System Software for controlling network switches.](https://github.com/facebook/fboss)
 - [ ] [facebook/wangle: Wangle is a framework providing a set of common client/server abstractions for building services in a consistent, modular, and composable way.](https://github.com/facebook/wangle)
+- [ ] [pdfium - Git at Google](https://pdfium.googlesource.com/pdfium/)
+- [ ] [v8/v8: The official mirror of the V8 Git repository](https://github.com/v8/v8)
 - [ ] [facebook/kuduraft: A Raft Library in C++ based on the Raft implementation in Apache Kudu](https://github.com/facebook/kuduraft)
 - [ ] [facebook/fatal: Fatal is a library for fast prototyping software in modern C++. It provides facilities to enhance the expressive power of C++. The library is heavily based on template meta-programming, while keeping the complexity under-the-hood.](https://github.com/facebook/fatal)
 - [ ] [facebook/folly: An open-source C++ library developed and used at Facebook.](https://github.com/facebook/folly)
