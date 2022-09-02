@@ -63,6 +63,7 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [ ] [unicode-org/icu: The new home of the ICU project source code.](https://github.com/unicode-org/icu)
     - https://github.com/LibCMaker/ICU_CMake_Files
 - [ ] [libharu/libharu: libharu - free PDF library](https://github.com/libharu/libharu)
+- [ ] [dealii/dealii: The development repository for the deal.II finite element library.](https://github.com/dealii/dealii)
 - [ ] [google/skia: Skia is a complete 2D graphic library for drawing Text, Geometries, and Images.](https://github.com/google/skia)
     - https://github.com/LibCMaker/LibCMaker_Skia
 - [ ] [apache/xerces-c: Apache Xerces-C validating XML parser](https://github.com/apache/xerces-c)
