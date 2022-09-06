@@ -189,6 +189,8 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
     - https://github.com/janbar/openssl-cmake
 - [ ] [RaftLib/RaftLib: The RaftLib C++ library, streaming/dataflow concurrency via C++ iostream-like operators](https://github.com/RaftLib/RaftLib)
 - [ ] GNU Scientific Library
+    - [ ] [ampl/gsl](https://github.com/dirkarnez/gsl-prebuilt), WIP
+        - `v2.7.0`
 - [ ] [freedesktop/fontconfig: Font customization and configuration library](https://github.com/freedesktop/fontconfig)
     - https://github.com/LibCMaker/LibCMaker_FontConfig
 - [ ] [electronicarts/EASTL: EASTL stands for Electronic Arts Standard Template Library. It is an extensive and robust implementation that has an emphasis on high performance.](https://github.com/electronicarts/EASTL)
