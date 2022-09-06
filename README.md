@@ -47,7 +47,13 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [ ] [libsndfile/libsndfile: A C library for reading and writing sound files containing sampled audio data.](https://github.com/libsndfile/libsndfile)
     - [dirkarnez/libsndfile-prebuilt](https://github.com/dirkarnez/libsndfile-prebuilt)
 - [ ] [gnuradio/gnuradio: GNU Radio – the Free and Open Software Radio Ecosystem](https://github.com/gnuradio/gnuradio)
+- [ ] [ampl/mp: An open-source library for mathematical programming](https://github.com/ampl/mp)
+- [ ] [ampl/asl](https://github.com/ampl/asl)
+- [ ] [ampl/ampls-api: AMPL Solver APIs](https://github.com/ampl/ampls-api)
 - [ ] [lfreist/hwinfo](https://github.com/dirkarnez/hwinfo-prebuilt), WIP
+- [ ] [mapbox/geojson-cpp: A C++14 library for converting GeoJSON into geometry.hpp representation](https://github.com/mapbox/geojson-cpp)
+- [ ] [mapbox/tippecanoe: Build vector tilesets from large collections of GeoJSON features.](https://github.com/mapbox/tippecanoe)
+- [ ] [wawanbreton/cvcomposer: Advanded GUI for OpenCV, to compose various filters and quickly see the result](https://github.com/wawanbreton/cvcomposer)
     - `ce30ab337ed625e1b868202b9e92b85bd9e3f766a`
 - [ ] [bloomberg/bde: Basic Development Environment - a set of foundational C++ libraries used at Bloomberg.](https://github.com/bloomberg/bde)
 - [ ] [facebook/watchman: Watches files and records, or triggers actions, when they change.](https://github.com/facebook/watchman)
