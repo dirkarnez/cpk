@@ -44,10 +44,11 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [ ] [audionamix/auconv: An audio file conversion library](https://github.com/audionamix/auconv)
 - [ ] [audionamix/rtff: A real time frequential filtering library](https://github.com/audionamix/rtff)
 - [ ] [AshampooSystems/boden: Purely native C++ cross-platform GUI framework for Android and iOS development. https://www.boden.io](https://github.com/AshampooSystems/boden/)
-- [ ] [libsndfile/libsndfile: A C library for reading and writing sound files containing sampled audio data.](https://github.com/libsndfile/libsndfile)
+- [ ] [libsndfile/libsndfile: A C library for reading and writing sound files containing sampled audio data.](https://github.com/libsndfile/libsndfile), WIP
     - [dirkarnez/libsndfile-prebuilt](https://github.com/dirkarnez/libsndfile-prebuilt)
 - [ ] [gnuradio/gnuradio: GNU Radio – the Free and Open Software Radio Ecosystem](https://github.com/gnuradio/gnuradio)
-- [ ] [ampl/mp: An open-source library for mathematical programming](https://github.com/ampl/mp)
+- [ ] [ampl/mp](https://github.com/dirkarnez/mp-prebuilt), WIP
+    - `v3.1.0`
 - [ ] [ampl/asl](https://github.com/ampl/asl)
 - [ ] [ampl/ampls-api: AMPL Solver APIs](https://github.com/ampl/ampls-api)
 - [ ] [lfreist/hwinfo](https://github.com/dirkarnez/hwinfo-prebuilt), WIP
@@ -71,7 +72,7 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [ ] [facebook/folly: An open-source C++ library developed and used at Facebook.](https://github.com/facebook/folly)
 - [ ] [unicode-org/icu: The new home of the ICU project source code.](https://github.com/unicode-org/icu)
     - https://github.com/LibCMaker/ICU_CMake_Files
-- [ ] [libharu/libharu: libharu - free PDF library](https://github.com/libharu/libharu)
+- [ ] [libharu/libharu: libharu - free PDF library](https://github.com/libharu/libharu), WIP
 - [ ] [dealii/dealii: The development repository for the deal.II finite element library.](https://github.com/dealii/dealii)
 - [ ] [google/skia: Skia is a complete 2D graphic library for drawing Text, Geometries, and Images.](https://github.com/google/skia)
     - https://github.com/LibCMaker/LibCMaker_Skia
