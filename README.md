@@ -204,7 +204,8 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [ ] [ETLCPP/etl: Embedded Template Library](https://github.com/ETLCPP/etl)
 - [ ] [jfalcou/eve: Expressive Vector Engine - SIMD in C++ Goes Brrrr](https://github.com/jfalcou/eve)
 - [ ] [g-truc/glm: OpenGL Mathematics (GLM)](https://github.com/g-truc/glm)
-- [ ] [HDFGroup/hdf5: Official HDF5® Library Repository](https://github.com/HDFGroup/hdf5)  
+- [ ] [HDFGroup/hdf5](https://github.com/dirkarnez/hdf5-prebuilt), WIP
+    - `v1.13.2`  
 - [ ] [oneapi-src/oneTBB: oneAPI Threading Building Blocks (oneTBB)](https://github.com/oneapi-src/oneTBB)
 - [ ] [modm-io/avr-libstdcpp: Subset of the C++ standard library for AVR targets](https://github.com/modm-io/avr-libstdcpp)
 - [ ] [webview/webview: Tiny cross-platform webview library for C/C++/Golang. Uses WebKit (Gtk/Cocoa) and Edge (Windows)](https://github.com/webview/webview)
