@@ -51,6 +51,8 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
     - `v3.1.0`
 - [ ] [ampl/asl](https://github.com/ampl/asl)
 - [ ] [ampl/ampls-api: AMPL Solver APIs](https://github.com/ampl/ampls-api)
+- [ ] [dlfcn-win32/dlfcn-win32](https://github.com/dirkarnez/dlfcn-win32-prebuilt), WIP
+    - `v1.3.1`
 - [ ] [lfreist/hwinfo](https://github.com/dirkarnez/hwinfo-prebuilt), WIP
 - [ ] [mapbox/geojson-cpp: A C++14 library for converting GeoJSON into geometry.hpp representation](https://github.com/mapbox/geojson-cpp)
 - [ ] [mapbox/tippecanoe: Build vector tilesets from large collections of GeoJSON features.](https://github.com/mapbox/tippecanoe)
