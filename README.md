@@ -49,7 +49,8 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [ ] [gnuradio/gnuradio: GNU Radio – the Free and Open Software Radio Ecosystem](https://github.com/gnuradio/gnuradio)
 - [ ] [ampl/mp](https://github.com/dirkarnez/mp-prebuilt), WIP
     - `v3.1.0`
-- [ ] [ampl/asl](https://github.com/ampl/asl)
+- [ ] [ampl/asl](https://github.com/dirkarnez/asl-prebuilt/tree/main), WIP
+    - `c642206393ec127906fb248343e0bcee1c2119850`
 - [ ] [ampl/ampls-api: AMPL Solver APIs](https://github.com/ampl/ampls-api)
 - [ ] [dlfcn-win32/dlfcn-win32](https://github.com/dirkarnez/dlfcn-win32-prebuilt), WIP
     - `v1.3.1`
