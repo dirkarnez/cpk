@@ -48,13 +48,15 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
     - [dirkarnez/libsndfile-prebuilt](https://github.com/dirkarnez/libsndfile-prebuilt)
 - [ ] [gnuradio/gnuradio: GNU Radio – the Free and Open Software Radio Ecosystem](https://github.com/gnuradio/gnuradio)
 - [ ] [ampl/mp](https://github.com/dirkarnez/mp-prebuilt), WIP
-    - `v3.1.0`
+    - ~~`v3.1.0`~~
 - [ ] [ampl/asl](https://github.com/dirkarnez/asl-prebuilt/tree/main), WIP
     - `c642206393ec127906fb248343e0bcee1c2119850`
 - [ ] [ampl/ampls-api: AMPL Solver APIs](https://github.com/ampl/ampls-api)
 - [ ] [dlfcn-win32/dlfcn-win32](https://github.com/dirkarnez/dlfcn-win32-prebuilt), WIP
     - `v1.3.1`
 - [ ] [lfreist/hwinfo](https://github.com/dirkarnez/hwinfo-prebuilt), WIP
+- [ ] [erincatto/box2d: Box2D is a 2D physics engine for games](https://github.com/erincatto/box2d)
+- [ ] [bulletphysics/bullet3: Bullet Physics SDK: real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc.](https://github.com/bulletphysics/bullet3)
 - [ ] [mapbox/geojson-cpp: A C++14 library for converting GeoJSON into geometry.hpp representation](https://github.com/mapbox/geojson-cpp)
 - [ ] [mapbox/tippecanoe: Build vector tilesets from large collections of GeoJSON features.](https://github.com/mapbox/tippecanoe)
 - [ ] [wawanbreton/cvcomposer: Advanded GUI for OpenCV, to compose various filters and quickly see the result](https://github.com/wawanbreton/cvcomposer)
