@@ -197,8 +197,8 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [ ] Bcrypt
 - [ ] curl
 - [ ] [manticoresoftware/manticoresearch: Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK soon](https://github.com/manticoresoftware/manticoresearch/)
-- [ ] OpenSSL
-    - https://github.com/janbar/openssl-cmake
+- [ ] [openssl/openssl](https://github.com/dirkarnez/openssl-prebuilt), WIP
+    - `v3.0.5`
 - [ ] [RaftLib/RaftLib: The RaftLib C++ library, streaming/dataflow concurrency via C++ iostream-like operators](https://github.com/RaftLib/RaftLib)
 - [ ] GNU Scientific Library
     - [ ] [ampl/gsl](https://github.com/dirkarnez/gsl-prebuilt), WIP
