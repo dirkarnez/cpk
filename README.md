@@ -167,6 +167,7 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [ ] [GMP](https://github.com/dirkarnez/gmp-prebuilt), WIP
     - `v6.2.1`
 - [ ] [GNU MPFR](https://github.com/dirkarnez/mpfr-prebuilt), WIP
+    - `v4.1.0`
 - [ ] GStreamer
 - [ ] [libsdl-org/SDL](https://github.com/dirkarnez/sdl-prebuilt), WIP
     - `v2.0.2`
