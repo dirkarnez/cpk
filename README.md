@@ -165,6 +165,7 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [ ] OpenMP
 - [ ] https://github.com/steven-varga/h5cpp
 - [ ] [GMP](https://github.com/dirkarnez/gmp-prebuilt), WIP
+    - `v6.2.1`
 - [ ] [GNU MPFR](https://github.com/dirkarnez/mpfr-prebuilt), WIP
 - [ ] GStreamer
 - [ ] [libsdl-org/SDL](https://github.com/dirkarnez/sdl-prebuilt), WIP
