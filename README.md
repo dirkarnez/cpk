@@ -55,6 +55,8 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [ ] [dlfcn-win32/dlfcn-win32](https://github.com/dirkarnez/dlfcn-win32-prebuilt), WIP
     - `v1.3.1`
 - [ ] [lfreist/hwinfo](https://github.com/dirkarnez/hwinfo-prebuilt), WIP
+- [ ] [nemtrif/utfcpp](https://github.com/dirkarnez/utfcpp-prebuilt), WIP
+    - `v3.2.1`
 - [ ] [erincatto/box2d: Box2D is a 2D physics engine for games](https://github.com/erincatto/box2d)
 - [ ] [bulletphysics/bullet3: Bullet Physics SDK: real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc.](https://github.com/bulletphysics/bullet3)
 - [ ] [mapbox/geojson-cpp: A C++14 library for converting GeoJSON into geometry.hpp representation](https://github.com/mapbox/geojson-cpp)
