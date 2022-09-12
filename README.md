@@ -81,8 +81,8 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [ ] [facebook/kuduraft: A Raft Library in C++ based on the Raft implementation in Apache Kudu](https://github.com/facebook/kuduraft)
 - [ ] [facebook/fatal: Fatal is a library for fast prototyping software in modern C++. It provides facilities to enhance the expressive power of C++. The library is heavily based on template meta-programming, while keeping the complexity under-the-hood.](https://github.com/facebook/fatal)
 - [ ] [facebook/folly: An open-source C++ library developed and used at Facebook.](https://github.com/facebook/folly)
-- [ ] [unicode-org/icu: The new home of the ICU project source code.](https://github.com/unicode-org/icu)
-    - https://github.com/LibCMaker/ICU_CMake_Files
+- [ ] [unicode-org/icu](https://github.com/dirkarnez/icu4c-prebuilt), WIP
+    - `v71.1`
 - [ ] [libharu/libharu: libharu - free PDF library](https://github.com/libharu/libharu), WIP
 - [ ] [dealii/dealii: The development repository for the deal.II finite element library.](https://github.com/dealii/dealii)
 - [ ] [google/skia: Skia is a complete 2D graphic library for drawing Text, Geometries, and Images.](https://github.com/google/skia)
