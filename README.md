@@ -55,7 +55,7 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [ ] [dlfcn-win32/dlfcn-win32](https://github.com/dirkarnez/dlfcn-win32-prebuilt), WIP
     - `v1.3.1`
 - [ ] [lfreist/hwinfo](https://github.com/dirkarnez/hwinfo-prebuilt), WIP
-- [ ] [mpdecimal project](https://www.bytereef.org/mpdecimal/download.html)
+- [ ] [mpdecimal](https://github.com/dirkarnez/mpdecimal-prebuilt), WIP
 - [ ] [xnd-project/gumath: Library supporting function dispatch on general data containers. C base and Python wrapper](https://github.com/xnd-project/gumath)
 - [ ] [nemtrif/utfcpp](https://github.com/dirkarnez/utfcpp-prebuilt), WIP
     - `v3.2.1`
