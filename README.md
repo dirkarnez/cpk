@@ -40,6 +40,7 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [ ] [sciplot/sciplot](https://github.com/dirkarnez/sciplot-prebuilt), WIP
     - `v0.2.2`
 - [ ] Boost
+- [ ] [ImageMagick/ImageMagick: 🧙‍♂️ ImageMagick 7](https://github.com/ImageMagick/ImageMagick)
 - [ ] [audionamix/wave: Simple C++ library for reading and writting wave files](https://github.com/audionamix/wave)
 - [ ] [audionamix/auconv: An audio file conversion library](https://github.com/audionamix/auconv)
 - [ ] [audionamix/rtff: A real time frequential filtering library](https://github.com/audionamix/rtff)
@@ -54,6 +55,7 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [ ] [ampl/ampls-api: AMPL Solver APIs](https://github.com/ampl/ampls-api)
 - [ ] [dlfcn-win32/dlfcn-win32](https://github.com/dirkarnez/dlfcn-win32-prebuilt), WIP
     - `v1.3.1`
+- [ ] [gpg/gpg4win: GnuPG for Windows. NOTE: Maintainers are not tracking this mirror. Do not make pull requests here, nor comment any commits, submit them usual way to bug tracker (https://www.gnupg.org/documentation/bts.html) or to the mailing list (https://www.gnupg.org/documentation/mailing-lists.html).](https://github.com/gpg/gpg4win)
 - [ ] [lfreist/hwinfo](https://github.com/dirkarnez/hwinfo-prebuilt), WIP
 - [ ] [mpdecimal](https://github.com/dirkarnez/mpdecimal-prebuilt), WIP
 - [ ] [xnd-project/gumath: Library supporting function dispatch on general data containers. C base and Python wrapper](https://github.com/xnd-project/gumath)
@@ -155,7 +157,9 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [ ] Magick++
 - [ ] https://github.com/facebook/folly
 - [ ] Simd
-- [ ] gettext
+- [ ] openal
+- [ ] [GNU gettext - Git Repositories [Savannah]](https://savannah.gnu.org/git/?group=gettext)
+- [ ] [gpg/gpg4win](https://github.com/gpg/gpg4win)
 - [ ] cpp-netlib
 - [ ] [pybind/pybind11: Seamless operability between C++11 and Python](https://github.com/pybind/pybind11)
 - [ ] https://github.com/snakster/cpp.react
