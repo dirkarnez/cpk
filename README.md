@@ -53,6 +53,8 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [ ] [ampl/asl](https://github.com/dirkarnez/asl-prebuilt/tree/main), WIP
     - `c642206393ec127906fb248343e0bcee1c2119850`
 - [ ] [ampl/ampls-api: AMPL Solver APIs](https://github.com/ampl/ampls-api)
+- [ ] [jugit.fz-juelich.de/mlz/libcerf](https://github.com/dirkarnez/libcerf-prebuilt), WIP
+    - `v2.1`
 - [ ] [dlfcn-win32/dlfcn-win32](https://github.com/dirkarnez/dlfcn-win32-prebuilt), WIP
     - `v1.3.1`
 - [ ] [gpg/gpg4win: GnuPG for Windows. NOTE: Maintainers are not tracking this mirror. Do not make pull requests here, nor comment any commits, submit them usual way to bug tracker (https://www.gnupg.org/documentation/bts.html) or to the mailing list (https://www.gnupg.org/documentation/mailing-lists.html).](https://github.com/gpg/gpg4win)
