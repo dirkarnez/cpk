@@ -160,7 +160,8 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [ ] https://github.com/facebook/folly
 - [ ] Simd
 - [ ] openal
-- [ ] [GNU gettext - Git Repositories [Savannah]](https://savannah.gnu.org/git/?group=gettext)
+- [ ] [GNU gettext - Git Repositories [Savannah]](https://github.com/dirkarnez/gettext-prebuilt), WIP
+- [ ] [GNU libiconv - Git Repositories [Savannah]](https://github.com/dirkarnez/libiconv-prebuilt), WIP
 - [ ] [gpg/gpg4win](https://github.com/gpg/gpg4win)
 - [ ] cpp-netlib
 - [ ] [pybind/pybind11: Seamless operability between C++11 and Python](https://github.com/pybind/pybind11)
