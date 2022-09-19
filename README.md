@@ -74,7 +74,8 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [ ] [facebook/yoga: Yoga is a cross-platform layout engine which implements Flexbox. Follow https://twitter.com/yogalayout for updates.](https://github.com/facebook/yoga)
 - [ ] [facebook/fboss: Facebook Open Switching System Software for controlling network switches.](https://github.com/facebook/fboss)
 - [ ] [facebook/wangle: Wangle is a framework providing a set of common client/server abstractions for building services in a consistent, modular, and composable way.](https://github.com/facebook/wangle)
-- [ ] [dirkarnez/rttr-prebuilt](https://github.com/dirkarnez/rttr-prebuilt)
+- [ ] [rttrorg/rttr](https://github.com/dirkarnez/rttr-prebuilt), WIP
+    - `v0.9.6`
 - [ ] [Artelnics/opennn: OpenNN - Open Neural Networks Library](https://github.com/Artelnics/OpenNN)
 - [ ] [pdfium - Git at Google](https://pdfium.googlesource.com/pdfium/)
 - [ ] [g-truc/glm: OpenGL Mathematics (GLM)](https://github.com/g-truc/glm)
