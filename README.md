@@ -204,7 +204,7 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [ ] https://github.com/the-tcpdump-group/libpcap
 - [ ] https://github.com/protocolbuffers/protobuf
 - [ ] https://github.com/USCiLab/cereal
-- [ ] ffmpeg
+- [ ] [FFmpeg/FFmpeg](https://github.com/dirkarnez/ffmpeg-prebuilt)
 - [ ] https://github.com/jakogut/tinyvm
 - [ ] CGAL
 - [ ] CUDA
