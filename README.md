@@ -40,6 +40,8 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [ ] [sciplot/sciplot](https://github.com/dirkarnez/sciplot-prebuilt), WIP
     - `v0.2.2`
 - [ ] Boost
+- [ ] [facebook/zstd](https://github.com/dirkarnez/zstd-prebuilt), WIP
+    - `v1.5.2`
 - [ ] [ImageMagick/ImageMagick: 🧙‍♂️ ImageMagick 7](https://github.com/ImageMagick/ImageMagick)
 - [ ] [audionamix/wave: Simple C++ library for reading and writting wave files](https://github.com/audionamix/wave)
 - [ ] [audionamix/auconv: An audio file conversion library](https://github.com/audionamix/auconv)
