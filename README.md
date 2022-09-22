@@ -42,6 +42,8 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [ ] Boost
 - [ ] [facebook/zstd](https://github.com/dirkarnez/zstd-prebuilt), WIP
     - `v1.5.2`
+- [ ] [zsiciarz/aquila](https://github.com/dirkarnez/aquila-prebuilt), WIP
+    - `cd5e3bde3c8d07678a95f225b657a7bb23d0c4730`
 - [ ] [ImageMagick/ImageMagick: 🧙‍♂️ ImageMagick 7](https://github.com/ImageMagick/ImageMagick)
 - [ ] [audionamix/wave: Simple C++ library for reading and writting wave files](https://github.com/audionamix/wave)
 - [ ] [audionamix/auconv: An audio file conversion library](https://github.com/audionamix/auconv)
