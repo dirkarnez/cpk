@@ -63,6 +63,9 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
     - `v1.3.1`
 - [ ] [gpg/gpg4win: GnuPG for Windows. NOTE: Maintainers are not tracking this mirror. Do not make pull requests here, nor comment any commits, submit them usual way to bug tracker (https://www.gnupg.org/documentation/bts.html) or to the mailing list (https://www.gnupg.org/documentation/mailing-lists.html).](https://github.com/gpg/gpg4win)
 - [ ] [lfreist/hwinfo](https://github.com/dirkarnez/hwinfo-prebuilt), WIP
+- [ ] [dirkarnez/libass-prebuilt](https://github.com/dirkarnez/libass-prebuilt), WIP
+- [ ] [dirkarnez/libjit-prebuilt](https://github.com/dirkarnez/libjit-prebuilt), WIP
+- [ ] [dirkarnez/bison-prebuilt](https://github.com/dirkarnez/bison-prebuilt), WIP
 - [ ] [mpdecimal](https://github.com/dirkarnez/mpdecimal-prebuilt), WIP
 - [ ] [xnd-project/gumath: Library supporting function dispatch on general data containers. C base and Python wrapper](https://github.com/xnd-project/gumath)
 - [ ] [nemtrif/utfcpp](https://github.com/dirkarnez/utfcpp-prebuilt), WIP
