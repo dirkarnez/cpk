@@ -219,7 +219,8 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [ ] CUDA
 - [ ] [jbeder/yaml-cpp](https://github.com/dirkarnez/yaml-cpp-prebuilt), WIP
     - `v0.7.0`
-- [ ] lua
+- [ ] [The Programming Language Lua](https://github.com/dirkarnez/lua-prebuilt), WIP
+    - `v5.4.4`
 - [ ] Bcrypt
 - [ ] curl
 - [ ] [manticoresoftware/manticoresearch: Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK soon](https://github.com/manticoresoftware/manticoresearch/)
