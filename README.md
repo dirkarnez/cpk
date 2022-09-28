@@ -61,6 +61,8 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
     - `v8.2`
 - [ ] [jugit.fz-juelich.de/mlz/libcerf](https://github.com/dirkarnez/libcerf-prebuilt), WIP
     - `v2.1`
+- [ ] [IfcOpenShell/IfcOpenshell](https://github.com/dirkarnez/IfcOpenShell-prebuilt), WIP
+    - `v0.7.0`
 - [ ] [flann-lib/flann](https://github.com/dirkarnez/flann-prebuilt), WIP
     - `v1.9.1`
 - [ ] [dlfcn-win32/dlfcn-win32](https://github.com/dirkarnez/dlfcn-win32-prebuilt), WIP
