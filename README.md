@@ -177,6 +177,7 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [ ] openal
 - [ ] [GNU gettext - Git Repositories [Savannah]](https://github.com/dirkarnez/gettext-prebuilt), WIP
 - [ ] [GNU libiconv - Git Repositories [Savannah]](https://github.com/dirkarnez/libiconv-prebuilt), WIP
+- [ ] [GNOME / libxml2 · GitLab](https://gitlab.gnome.org/GNOME/libxml2)
 - [ ] [gpg/gpg4win](https://github.com/gpg/gpg4win)
 - [ ] cpp-netlib
 - [ ] [pybind/pybind11: Seamless operability between C++11 and Python](https://github.com/pybind/pybind11)
@@ -256,3 +257,6 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [ ] [hselasky/jack_umidi: Raw MIDI to JACK daemon](https://github.com/hselasky/jack_umidi)
 - [ ] [harfbuzz/harfbuzz: HarfBuzz text shaping engine](https://github.com/harfbuzz/harfbuzz)
 - [ ] [freetype/freetype: Official mirror of https://gitlab.freedesktop.org/freetype/freetype](https://github.com/freetype/freetype)
+
+### TODO
+- [GNOME · GitLab](https://gitlab.gnome.org/GNOME)
