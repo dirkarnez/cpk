@@ -57,6 +57,8 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [ ] [ampl/asl](https://github.com/dirkarnez/asl-prebuilt/tree/main), WIP
     - `c642206393ec127906fb248343e0bcee1c2119850`
 - [ ] [ampl/ampls-api: AMPL Solver APIs](https://github.com/ampl/ampls-api)
+- [ ] [GNU Readline](https://github.com/dirkarnez/readline-prebuilt), WIP
+    - `v8.2`
 - [ ] [jugit.fz-juelich.de/mlz/libcerf](https://github.com/dirkarnez/libcerf-prebuilt), WIP
     - `v2.1`
 - [ ] [flann-lib/flann](https://github.com/dirkarnez/flann-prebuilt), WIP
