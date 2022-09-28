@@ -71,6 +71,8 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [ ] [dirkarnez/libjit-prebuilt](https://github.com/dirkarnez/libjit-prebuilt), WIP
 - [ ] [dirkarnez/bison-prebuilt](https://github.com/dirkarnez/bison-prebuilt), WIP
 - [ ] [mpdecimal](https://github.com/dirkarnez/mpdecimal-prebuilt), WIP
+- [ ] [GNU Guile](https://github.com/dirkarnez/guile-prebuilt), WIP
+    - `v3.0.8`
 - [ ] [xnd-project/gumath: Library supporting function dispatch on general data containers. C base and Python wrapper](https://github.com/xnd-project/gumath)
 - [ ] [nemtrif/utfcpp](https://github.com/dirkarnez/utfcpp-prebuilt), WIP
     - `v3.2.1`
