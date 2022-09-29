@@ -265,3 +265,4 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 ### TODO
 - [GNOME · GitLab](https://gitlab.gnome.org/GNOME)
 - [GnuWin32 Packages](https://gnuwin32.sourceforge.net/packages.html)
+- [VideoLAN · GitLab](https://code.videolan.org/videolan)
