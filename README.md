@@ -52,6 +52,8 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [ ] [libsndfile/libsndfile: A C library for reading and writing sound files containing sampled audio data.](https://github.com/libsndfile/libsndfile), WIP
     - [dirkarnez/libsndfile-prebuilt](https://github.com/dirkarnez/libsndfile-prebuilt)
 - [ ] [gnuradio/gnuradio: GNU Radio – the Free and Open Software Radio Ecosystem](https://github.com/gnuradio/gnuradio)
+- [ ] [videolan/x264](https://github.com/dirkarnez/x264-prebuilt), WIP
+    - `cbaee400fa9ced6f5481a728138fed6e867b0ff7f`
 - [ ] [ampl/mp](https://github.com/dirkarnez/mp-prebuilt), WIP
     - ~~`v3.1.0`~~
 - [ ] [ampl/asl](https://github.com/dirkarnez/asl-prebuilt/tree/main), WIP
