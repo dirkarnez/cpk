@@ -22,6 +22,7 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 13. `cpk` should resolve dependency-related issues like nested dependency
 14. `cpk` should give hints (using CMake macros?) on further setup for the projects using the installed libraries
 15. `cpk` should be unobtrusive, play well with unsupported / local libraries - `cpk` should have a dedicated folder for its CMake modules fetching and configuration (use `CMAKE_INSTALL_PREFIX`?)
+16. `cpk` should have a logic to redirect to official git repo (for header-only libraries like [g-truc/glm: OpenGL Mathematics (GLM)](https://github.com/g-truc/glm))
 
 ### How to use `cpk` in C/C++ project
 1. Prerequisites for C/C++ setup (also these compiler, git, cmake, `cpk` are in `%PATH%`)
@@ -97,7 +98,8 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
     - `v0.9.6`
 - [ ] [Artelnics/opennn: OpenNN - Open Neural Networks Library](https://github.com/Artelnics/OpenNN)
 - [ ] [pdfium - Git at Google](https://pdfium.googlesource.com/pdfium/)
-- [ ] [g-truc/glm: OpenGL Mathematics (GLM)](https://github.com/g-truc/glm)
+- [ ] [g-truc/glm: OpenGL Mathematics (GLM)](https://github.com/g-truc/glm), WIP
+    - `v0.9.9`
 - [ ] [OpenVPN/openvpn: OpenVPN is an open source VPN daemon](https://github.com/OpenVPN/openvpn)
 - [ ] [VTK / VTK · GitLab](https://gitlab.kitware.com/vtk/vtk/)
 - [ ] [MetaLogic Inference - Summary [Savannah]](https://savannah.gnu.org/projects/metalogic-inference)
