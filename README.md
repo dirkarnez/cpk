@@ -113,6 +113,8 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [ ] [unicode-org/icu](https://github.com/dirkarnez/icu4c-prebuilt), WIP
     - `v71.1`
 - [ ] [libharu/libharu: libharu - free PDF library](https://github.com/libharu/libharu), WIP
+- [ ] [l-smash/l-smash](https://github.com/dirkarnez/l-smash-prebuilt), WIP
+    - `v2.14.5`
 - [ ] [dealii/dealii: The development repository for the deal.II finite element library.](https://github.com/dealii/dealii)
 - [ ] [google/skia: Skia is a complete 2D graphic library for drawing Text, Geometries, and Images.](https://github.com/google/skia)
     - https://github.com/LibCMaker/LibCMaker_Skia
