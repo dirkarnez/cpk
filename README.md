@@ -59,6 +59,7 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
     - ~~`v3.1.0`~~
 - [ ] [ampl/asl](https://github.com/dirkarnez/asl-prebuilt/tree/main), WIP
     - `c642206393ec127906fb248343e0bcee1c2119850`
+- [ ] [openframeworks/openFrameworks: openFrameworks is a community-developed cross platform toolkit for creative coding in C++.](https://github.com/openframeworks/openFrameworks)
 - [ ] [ampl/ampls-api: AMPL Solver APIs](https://github.com/ampl/ampls-api)
 - [ ] [twitter/vireo](https://github.com/dirkarnez/vireo-prebuilt), WIP
     - `c7f0bc1ad50f5eaf30a09de209f0172f2def36abd`
