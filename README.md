@@ -230,7 +230,8 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [ ] https://github.com/libevent/libevent
     - https://github.com/dirkarnez/libevent-prebuilt
 - [ ] https://github.com/the-tcpdump-group/libpcap
-- [ ] https://github.com/protocolbuffers/protobuf
+- [ ] [protocolbuffers/protobuf](https://github.com/dirkarnez/protobuf-prebuilt), WIP
+    - `v21.7`
 - [ ] https://github.com/USCiLab/cereal
 - [ ] [FFmpeg/FFmpeg](https://github.com/dirkarnez/ffmpeg-prebuilt)
 - [ ] https://github.com/jakogut/tinyvm
