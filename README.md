@@ -164,7 +164,8 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [ ] https://github.com/mlpack/mlpack
 - [ ] glfw
 - [ ] [OGRECave/ogre-next](https://github.com/OGRECave/ogre-next)
-- [ ] QuantLib
+- [ ] [lballabio/QuantLib](https://github.com/dirkarnez/quantlib-prebuilt), WIP
+    - `v1.27`
 - [ ] UnQLite
 - [ ] sqlite
 - [ ] [open-mpi/ompi: Open MPI main development repository](https://github.com/open-mpi/ompi)
