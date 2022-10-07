@@ -242,8 +242,20 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
     - `v0.7.0`
 - [ ] [The Programming Language Lua](https://github.com/dirkarnez/lua-prebuilt), WIP
     - `v5.4.4`
-- [ ] Bcrypt
-- [ ] curl
+- [ ] [OpenBSD bcrypt](https://github.com/dirkarnez/bcrypt-prebuilt), WIP
+    - ``
+- [ ] https://github.com/c-ares/c-ares.git
+- [ ] [curl/curl](https://github.com/dirkarnez/curl-prebuilt), WIP
+    - `v7.85.0`
+- [ ] https://github.com/curl/doh
+- [ ] https://www.gnutls.org/
+- [ ] https://github.com/rockdaboot/libpsl
+- [ ] https://www.libssh2.org/
+- [ ] https://github.com/hosseinmoein/DataFrame
+- [ ] https://www.cgal.org/
+- [ ] https://github.com/DieShell/TclTk
+- [ ] https://github.com/dirkarnez/boost-prebuilt
+- [ ] https://github.com/FreeRDP/FreeRDP
 - [ ] [manticoresoftware/manticoresearch: Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK soon](https://github.com/manticoresoftware/manticoresearch/)
 - [ ] [openssl/openssl](https://github.com/dirkarnez/openssl-prebuilt), WIP
     - `v3.0.5`
