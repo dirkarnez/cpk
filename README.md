@@ -72,6 +72,8 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
     - `v1.12.2`
 - [ ] [GNU Readline](https://github.com/dirkarnez/readline-prebuilt), WIP
     - `v8.2`
+- [ ] [coreutils/gnulib](https://github.com/dirkarnez/gnulib-prebuilt), WIP
+    - `v0.1`
 - [ ] [jugit.fz-juelich.de/mlz/libcerf](https://github.com/dirkarnez/libcerf-prebuilt), WIP
     - `v2.1`
 - [ ] [IfcOpenShell/IfcOpenshell](https://github.com/dirkarnez/IfcOpenShell-prebuilt), WIP
