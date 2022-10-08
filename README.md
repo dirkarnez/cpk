@@ -62,6 +62,8 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
     - `c642206393ec127906fb248343e0bcee1c2119850`
 - [ ] [openframeworks/openFrameworks: openFrameworks is a community-developed cross platform toolkit for creative coding in C++.](https://github.com/openframeworks/openFrameworks)
 - [ ] [ampl/ampls-api: AMPL Solver APIs](https://github.com/ampl/ampls-api)
+- [ ] [libusb/libusb: A cross-platform library to access USB devices](https://github.com/libusb/libusb)
+- [ ] [libusb/hidapi: A Simple library for communicating with HID devices on Linux, Mac and Windows.](https://github.com/libusb/hidapi)
 - [ ] [twitter/vireo](https://github.com/dirkarnez/vireo-prebuilt), WIP
     - `c7f0bc1ad50f5eaf30a09de209f0172f2def36abd`
 - [ ] [GNU Readline](https://github.com/dirkarnez/readline-prebuilt), WIP
@@ -86,6 +88,7 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [ ] [nemtrif/utfcpp](https://github.com/dirkarnez/utfcpp-prebuilt), WIP
     - `v3.2.1`
 - [ ] [erincatto/box2d: Box2D is a 2D physics engine for games](https://github.com/erincatto/box2d)
+- [ ] [assimp/assimp: The official Open-Asset-Importer-Library Repository. Loads 40+ 3D-file-formats into one unified and clean data structure.](https://github.com/assimp/assimp)
 - [ ] [bulletphysics/bullet3: Bullet Physics SDK: real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc.](https://github.com/bulletphysics/bullet3)
 - [ ] [mapbox/geojson-cpp: A C++14 library for converting GeoJSON into geometry.hpp representation](https://github.com/mapbox/geojson-cpp)
 - [ ] [mapbox/tippecanoe: Build vector tilesets from large collections of GeoJSON features.](https://github.com/mapbox/tippecanoe)
@@ -145,6 +148,8 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
     - `cf7ded879139061c41631797e5b735d6d5ceee23e`
 - [ ] [FreeGLUTProject/freeglut](https://github.com/dirkarnez/freeglut-prebuilt), WIP
     - `v3.2.2`
+- [ ] [FreeImage download | SourceForge.net](https://sourceforge.net/projects/freeimage/)
+- [ ] https://glew.sourceforge.net/
 - [ ] [taocpp/PEGTL](https://github.com/dirkarnez/pegtl-prebuilt), WIP
     - `v3.2.7`
 - [ ] [libjpeg-turbo/libjpeg-turbo](https://github.com/dirkarnez/libjpeg-turbo-prebuilt), WIP
@@ -163,6 +168,7 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
     - [dirkarnez/fuzzylite-boilerplate](https://github.com/dirkarnez/fuzzylite-boilerplate)
 - [ ] https://github.com/mlpack/mlpack
 - [ ] glfw
+- [ ] [thestk/rtaudio: A set of C++ classes that provide a common API for realtime audio input/output across Linux (native ALSA, JACK, PulseAudio and OSS), Macintosh OS X (CoreAudio and JACK), and Windows (DirectSound, ASIO, and WASAPI) operating systems.](https://github.com/thestk/rtaudio)
 - [ ] [OGRECave/ogre-next](https://github.com/OGRECave/ogre-next)
 - [ ] [lballabio/QuantLib](https://github.com/dirkarnez/quantlib-prebuilt), WIP
     - `v1.27`
@@ -189,10 +195,16 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [ ] Magick++
 - [ ] https://github.com/facebook/folly
 - [ ] Simd
-- [ ] openal
+- [ ] https://www.openal.org/
+- [ ] https://www.kfrlib.com/
+- [ ] https://pugixml.org/
+- [ ] https://github.com/STEllAR-GROUP/hpx/
 - [ ] [GNU gettext - Git Repositories [Savannah]](https://github.com/dirkarnez/gettext-prebuilt), WIP
 - [ ] [GNU libiconv - Git Repositories [Savannah]](https://github.com/dirkarnez/libiconv-prebuilt), WIP
 - [ ] [GNOME / libxml2 · GitLab](https://gitlab.gnome.org/GNOME/libxml2)
+- [ ] http://mpg123.org/
+- [ ] https://github.com/LRN/ntldd
+- [ ] [LRN/libntlink: A library that implements symlink(), link(), unlink(), lstat() and readlink() on top of WinAPI](https://github.com/LRN/libntlink)
 - [ ] [gpg/gpg4win](https://github.com/gpg/gpg4win)
 - [ ] cpp-netlib
 - [ ] [pybind/pybind11: Seamless operability between C++11 and Python](https://github.com/pybind/pybind11)
@@ -279,7 +291,7 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [ ] [jfalcou/eve: Expressive Vector Engine - SIMD in C++ Goes Brrrr](https://github.com/jfalcou/eve)
 - [ ] [libuv/libuv: Cross-platform asynchronous I/O](https://github.com/libuv/libuv)
 - [ ] [dmlc/xgboost: Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow](https://github.com/dmlc/xgboost)
-- [ ] cairo
+- [ ] [freedesktop/cairo: cairo's central repository](https://github.com/freedesktop/cairo)
 - [ ] [hselasky/libumidi: MIDI file and interface library](https://github.com/hselasky/libumidi)
 - [ ] [hselasky/midipp: MIDI Player Pro](https://github.com/hselasky/midipp)
 - [ ] [hselasky/jack_umidi: Raw MIDI to JACK daemon](https://github.com/hselasky/jack_umidi)
