@@ -60,6 +60,7 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
     - ~~`v3.1.0`~~
 - [ ] [ampl/asl](https://github.com/dirkarnez/asl-prebuilt/tree/main), WIP
     - `c642206393ec127906fb248343e0bcee1c2119850`
+- [ ] [gpac/gpac: Modular Multimedia framework for packaging, streaming and playing your favorite content.](https://github.com/gpac/gpac)
 - [ ] [openframeworks/openFrameworks: openFrameworks is a community-developed cross platform toolkit for creative coding in C++.](https://github.com/openframeworks/openFrameworks)
 - [ ] [ampl/ampls-api: AMPL Solver APIs](https://github.com/ampl/ampls-api)
 - [ ] [libusb/libusb: A cross-platform library to access USB devices](https://github.com/libusb/libusb)
@@ -182,7 +183,8 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [ ] [lballabio/QuantLib](https://github.com/dirkarnez/quantlib-prebuilt), WIP
     - `v1.27`
 - [ ] UnQLite
-- [ ] sqlite
+- [ ] [sqlite/sqlite](https://github.com/dirkarnez/sqlite-prebuilt), WIP
+    - `v3.39.4`
 - [ ] [open-mpi/ompi: Open MPI main development repository](https://github.com/open-mpi/ompi)
 - [ ] [OpenMP/sources: This repository contains supplementary source code for the OpenMP(R) API Specification.](https://github.com/OpenMP/sources)
 - [ ] [oneapi-src/oneTBB: oneAPI Threading Building Blocks (oneTBB)](https://github.com/oneapi-src/oneTBB)
