@@ -142,6 +142,9 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [ ] [alsa-project/alsa-lib: The Advanced Linux Sound Architecture (ALSA) - library](https://github.com/alsa-project/alsa-lib)
 - [ ] [catchorg/Catch2](https://github.com/dirkarnez/catch2-prebuilt), WIP
     - `v3.1.0`
+- [ ] OpenAL
+- [ ] http://www.gphoto.org/proj/libgphoto2/
+- [ ] https://c.msgpack.org/cpp/index.html
 - [ ] [fltk/fltk](https://github.com/dirkarnez/fltk-prebuilt), WIP
     - `v1.3.8`
 - [ ] [craigsapp/midifile](https://github.com/dirkarnez/midifile-prebuilt), WIP
