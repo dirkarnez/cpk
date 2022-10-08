@@ -66,6 +66,10 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [ ] [libusb/hidapi: A Simple library for communicating with HID devices on Linux, Mac and Windows.](https://github.com/libusb/hidapi)
 - [ ] [twitter/vireo](https://github.com/dirkarnez/vireo-prebuilt), WIP
     - `c7f0bc1ad50f5eaf30a09de209f0172f2def36abd`
+- [ ] [libexpat/libexpat](https://github.com/dirkarnez/libexpat-prebuilt), WIP
+    - `v2.4.9`
+- [ ] [pocoproject/poco](https://github.com/dirkarnez/poco-prebuilt), WIP
+    - `v1.12.2`
 - [ ] [GNU Readline](https://github.com/dirkarnez/readline-prebuilt), WIP
     - `v8.2`
 - [ ] [jugit.fz-juelich.de/mlz/libcerf](https://github.com/dirkarnez/libcerf-prebuilt), WIP
