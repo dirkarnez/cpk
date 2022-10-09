@@ -280,7 +280,8 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [ ] https://www.gnutls.org/
 - [ ] https://github.com/rockdaboot/libpsl
 - [ ] https://www.libssh2.org/
-- [ ] https://github.com/hosseinmoein/DataFrame
+- [ ] [hosseinmoein/DataFrame](https://github.com/dirkarnez/dataframe-prebuilt), WIP
+    - `v1.21.0`
 - [ ] https://www.cgal.org/
 - [ ] https://github.com/DieShell/TclTk
 - [ ] https://github.com/dirkarnez/boost-prebuilt
