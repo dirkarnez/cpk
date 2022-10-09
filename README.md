@@ -49,8 +49,13 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [ ] [audionamix/wave: Simple C++ library for reading and writting wave files](https://github.com/audionamix/wave)
 - [ ] [audionamix/auconv: An audio file conversion library](https://github.com/audionamix/auconv)
 - [ ] [audionamix/rtff: A real time frequential filtering library](https://github.com/audionamix/rtff)
-- [ ] [PortMidi/portmidi](https://github.com/dirkarnez/portmidi-prebuilt)v2.0.4
+- [ ] [PortMidi/portmidi](https://github.com/dirkarnez/portmidi-prebuilt), WIP
+    - `v2.0.4`
+- [ ] [PortAudio/portaudio](https://github.com/dirkarnez/portaudio-prebuilt), WIP
+    - `v19.7.0`
 - [ ] [cycfi/q](https://github.com/dirkarnez/q-prebuilt)
+- [ ] [yanyiwu/cppjieba](https://github.com/dirkarnez/cppjieba-prebuilt), WIP
+    - `v5.0.3`
 - [ ] [AshampooSystems/boden: Purely native C++ cross-platform GUI framework for Android and iOS development. https://www.boden.io](https://github.com/AshampooSystems/boden/)
 - [ ] [libsndfile/libsndfile: A C library for reading and writing sound files containing sampled audio data.](https://github.com/libsndfile/libsndfile), WIP
     - [dirkarnez/libsndfile-prebuilt](https://github.com/dirkarnez/libsndfile-prebuilt)
@@ -147,7 +152,6 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [ ] [**alecthomas/entityx**](https://github.com/alecthomas/entityx)
 - [ ] [jackaudio/jack2: jack2 codebase](https://github.com/jackaudio/jack2)
 - [ ] [cartographer-project/cartographer: Cartographer is a system that provides real-time simultaneous localization and mapping (SLAM) in 2D and 3D across multiple platforms and sensor configurations.](https://github.com/cartographer-project/cartographer)
-- [ ] [PortAudio/portaudio: PortAudio is a cross-platform, open-source C language library for real-time audio input and output.](https://github.com/PortAudio/portaudio)
 - [ ] [alsa-project/alsa-lib: The Advanced Linux Sound Architecture (ALSA) - library](https://github.com/alsa-project/alsa-lib)
 - [ ] [catchorg/Catch2](https://github.com/dirkarnez/catch2-prebuilt), WIP
     - `v3.1.0`
