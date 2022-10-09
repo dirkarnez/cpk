@@ -49,6 +49,8 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [ ] [audionamix/wave: Simple C++ library for reading and writting wave files](https://github.com/audionamix/wave)
 - [ ] [audionamix/auconv: An audio file conversion library](https://github.com/audionamix/auconv)
 - [ ] [audionamix/rtff: A real time frequential filtering library](https://github.com/audionamix/rtff)
+- [ ] [PortMidi/portmidi](https://github.com/dirkarnez/portmidi-prebuilt)v2.0.4
+- [ ] [cycfi/q](https://github.com/dirkarnez/q-prebuilt)
 - [ ] [AshampooSystems/boden: Purely native C++ cross-platform GUI framework for Android and iOS development. https://www.boden.io](https://github.com/AshampooSystems/boden/)
 - [ ] [libsndfile/libsndfile: A C library for reading and writing sound files containing sampled audio data.](https://github.com/libsndfile/libsndfile), WIP
     - [dirkarnez/libsndfile-prebuilt](https://github.com/dirkarnez/libsndfile-prebuilt)
@@ -220,8 +222,8 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [ ] cpp-netlib
 - [ ] [pybind/pybind11: Seamless operability between C++11 and Python](https://github.com/pybind/pybind11)
 - [ ] https://github.com/snakster/cpp.react
-- [ ] DataFrame
-- [ ] PortAudio
+- [ ] [hosseinmoein/DataFrame](https://github.com/dirkarnez/fftw3-prebuilt), WIP
+    - `v1.21.0`
 - [ ] [FFTW/fftw3](https://github.com/dirkarnez/fftw3-prebuilt), WIP
     - `v3.3.10`
 - [ ] [oatpp/oatpp](https://github.com/dirkarnez/oatpp-prebuilt), WIP
