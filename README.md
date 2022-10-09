@@ -226,7 +226,7 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [ ] cpp-netlib
 - [ ] [pybind/pybind11: Seamless operability between C++11 and Python](https://github.com/pybind/pybind11)
 - [ ] https://github.com/snakster/cpp.react
-- [ ] [hosseinmoein/DataFrame](https://github.com/dirkarnez/fftw3-prebuilt), WIP
+- [ ] [hosseinmoein/DataFrame](https://github.com/dirkarnez/dataframe-prebuilt), WIP
     - `v1.21.0`
 - [ ] [FFTW/fftw3](https://github.com/dirkarnez/fftw3-prebuilt), WIP
     - `v3.3.10`
