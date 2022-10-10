@@ -313,7 +313,10 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [ ] [hselasky/libumidi: MIDI file and interface library](https://github.com/hselasky/libumidi)
 - [ ] [hselasky/midipp: MIDI Player Pro](https://github.com/hselasky/midipp)
 - [ ] [hselasky/jack_umidi: Raw MIDI to JACK daemon](https://github.com/hselasky/jack_umidi)
-- [ ] [harfbuzz/harfbuzz: HarfBuzz text shaping engine](https://github.com/harfbuzz/harfbuzz)
+- [ ] [bzip2/bzip2](https://github.com/dirkarnez/bzip2-prebuilt), WIP
+    - `v1.0.8`
+- [ ] [harfbuzz/harfbuzz](https://github.com/dirkarnez/harfbuzz-prebuilt), WIP
+    - `v5.3.0`
 - [ ] [freetype/freetype: Official mirror of https://gitlab.freedesktop.org/freetype/freetype](https://github.com/freetype/freetype)
 
 ### TODO
