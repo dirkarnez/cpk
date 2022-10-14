@@ -137,7 +137,8 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [ ] [dealii/dealii: The development repository for the deal.II finite element library.](https://github.com/dealii/dealii)
 - [ ] [google/skia: Skia is a complete 2D graphic library for drawing Text, Geometries, and Images.](https://github.com/google/skia)
     - https://github.com/LibCMaker/LibCMaker_Skia
-- [ ] [apache/xerces-c: Apache Xerces-C validating XML parser](https://github.com/apache/xerces-c)
+- [ ] [apache/xerces-c](https://github.com/dirkarnez/xerces-c-prebuilt), WIP
+    - `v3.2.3`
 - [ ] [LibreDWG/libredwg](https://github.com/dirkarnez/libredwg-prebuilt), WIP
     - `ce32962da3f247937f6355f80a113ea716016e998`
 - [ ] [JagPDF - Downloads](http://www.jagpdf.org/downloads.htm)
