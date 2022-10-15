@@ -74,6 +74,8 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [ ] [libusb/hidapi: A Simple library for communicating with HID devices on Linux, Mac and Windows.](https://github.com/libusb/hidapi)
 - [ ] [twitter/vireo](https://github.com/dirkarnez/vireo-prebuilt), WIP
     - `c7f0bc1ad50f5eaf30a09de209f0172f2def36abd`
+- [ ] [oberhumer.com: LZO real-time data compression library], WIP
+    - `v2.10`
 - [ ] [libexpat/libexpat](https://github.com/dirkarnez/libexpat-prebuilt), WIP
     - `v2.4.9`
 - [ ] [pocoproject/poco](https://github.com/dirkarnez/poco-prebuilt), WIP
@@ -247,7 +249,8 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
     - `v2.0.2`
 - [ ] TagLib
 - [ ] cpprestsdk
-- [ ] https://github.com/google/brotli
+- [ ] [google/brotli](https://github.com/dirkarnez/brotli-prebuilt), WIP
+    - `v1.0.9`
 - [ ] Google tests
 - [ ] gRPC
 - [ ] [davisking/dlib](https://github.com/dirkarnez/dlib-prebuilt), WIP
