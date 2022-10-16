@@ -115,6 +115,7 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [ ] [facebook/yoga: Yoga is a cross-platform layout engine which implements Flexbox. Follow https://twitter.com/yogalayout for updates.](https://github.com/facebook/yoga)
 - [ ] [facebook/fboss: Facebook Open Switching System Software for controlling network switches.](https://github.com/facebook/fboss)
 - [ ] [facebook/wangle: Wangle is a framework providing a set of common client/server abstractions for building services in a consistent, modular, and composable way.](https://github.com/facebook/wangle)
+- [ ] [fox-toolkit.org](https://github.com/dirkarnez/fox-prebuilt), WIP
 - [ ] [nlohmann/json](https://github.com/dirkarnez/json-prebuilt), WIP
     - `v3.11.2`
 - [ ] [rttrorg/rttr](https://github.com/dirkarnez/rttr-prebuilt), WIP
