@@ -23,7 +23,9 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 14. `cpk` should give hints (using CMake macros?) on further setup for the projects using the installed libraries
 15. `cpk` should be unobtrusive, play well with unsupported / local libraries - `cpk` should have a dedicated folder for its CMake modules fetching and configuration (use `CMAKE_INSTALL_PREFIX`?)
 16. `cpk` should have a logic to redirect to official git repo (for header-only libraries like [g-truc/glm: OpenGL Mathematics (GLM)](https://github.com/g-truc/glm))
-
+17. **`cpk` should be available as a CMake module**
+    - refer to [dirkarnez/cmake-playground](https://github.com/dirkarnez/cmake-playground)
+    
 ### How to use `cpk` in C/C++ project
 1. Prerequisites for C/C++ setup (also these compiler, git, cmake, `cpk` are in `%PATH%`)
 2. Having `cmake/modules/.gitkeep` - `cpk` assumes `cmake/cpk_modules` exists (or warn) and expect to overwrite the FindXXX.cmake if applicable
