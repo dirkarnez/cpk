@@ -40,7 +40,10 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
     - `v4.1.2`
 - [ ] [sciplot/sciplot](https://github.com/dirkarnez/sciplot-prebuilt), WIP
     - `v0.2.2`
-- [ ] Boost
+- [ ] [boostorg/boost](https://github.com/dirkarnez/boost-prebuilt), WIP
+    - `v1.80.0`
+- [ ] [arvidn/libtorrent](https://github.com/dirkarnez/libtorrent-prebuilt), WIP
+    - `v2.0.7`
 - [ ] [facebook/zstd](https://github.com/dirkarnez/zstd-prebuilt), WIP
     - `v1.5.2`
 - [ ] [zsiciarz/aquila](https://github.com/dirkarnez/aquila-prebuilt), WIP
