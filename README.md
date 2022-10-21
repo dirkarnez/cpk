@@ -229,7 +229,8 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [ ] Simd
 - [ ] https://www.openal.org/
 - [ ] https://www.kfrlib.com/
-- [ ] https://pugixml.org/
+- [ ] [zeux/pugixml](https://github.com/dirkarnez/pugixml-prebuilt), WIP
+	- `v1.12.1`
 - [ ] https://github.com/STEllAR-GROUP/hpx/
 - [ ] [GNU gettext - Git Repositories [Savannah]](https://github.com/dirkarnez/gettext-prebuilt), WIP
 - [ ] [GNU libiconv - Git Repositories [Savannah]](https://github.com/dirkarnez/libiconv-prebuilt), WIP
