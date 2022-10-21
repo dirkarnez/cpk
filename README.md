@@ -60,6 +60,8 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
     - `v2.0.4`
 - [ ] [PortAudio/portaudio](https://github.com/dirkarnez/portaudio-prebuilt), WIP
     - `v19.7.0`
+- [ ][gpg/libgpg-error](https://github.com/dirkarnez/libgpg-error-prebuilt), WIP
+	- `v1.46`
 - [ ] [cycfi/q](https://github.com/dirkarnez/q-prebuilt)
 - [ ] [yanyiwu/cppjieba](https://github.com/dirkarnez/cppjieba-prebuilt), WIP
     - `v5.0.3`
