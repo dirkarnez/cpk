@@ -89,6 +89,8 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
     - `v2.4.9`
 - [ ] [libffi/libffi](https://github.com/dirkarnez/libffi-prebuilt), WIP
     - `v3.4.3`
+- [ ] [enzo1982/mp4v2](https://github.com/dirkarnez/mp4v2-prebuilt), WIP
+    - `v2.1.1`
 - [ ] [pocoproject/poco](https://github.com/dirkarnez/poco-prebuilt), WIP
     - `v1.12.2`
 - [ ] [GNU Readline](https://github.com/dirkarnez/readline-prebuilt), WIP
