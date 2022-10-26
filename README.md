@@ -63,6 +63,7 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [ ][gpg/libgpg-error](https://github.com/dirkarnez/libgpg-error-prebuilt), WIP
 	- `v1.46`
 - [ ] [cycfi/q](https://github.com/dirkarnez/q-prebuilt)
+- [ ] [facebookincubator/MY_ENUM: Small c++ macro library to add compile-time introspection to c++ enum classes.](https://github.com/facebookincubator/MY_ENUM)
 - [ ] [yanyiwu/cppjieba](https://github.com/dirkarnez/cppjieba-prebuilt), WIP
     - `v5.0.3`
 - [ ] [AshampooSystems/boden: Purely native C++ cross-platform GUI framework for Android and iOS development. https://www.boden.io](https://github.com/AshampooSystems/boden/)
