@@ -54,6 +54,8 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [ ] [lipnitsk/libcue](https://github.com/dirkarnez/libcue-prebuilt), WIP
     - `v2.2.1`
 - [ ] [audionamix/wave: Simple C++ library for reading and writting wave files](https://github.com/audionamix/wave)
+- [ ] [abseil/abseil-cpp: Abseil Common Libraries (C++)](https://github.com/abseil/abseil-cpp)
+- [ ] [sbellus/libmicrohttpd-cmake: The repository contains cmake build files for libmicrohttpd (https://www.gnu.org/software/libmicrohttpd/)](https://github.com/sbellus/libmicrohttpd-cmake)
 - [ ] [audionamix/auconv: An audio file conversion library](https://github.com/audionamix/auconv)
 - [ ] [audionamix/rtff: A real time frequential filtering library](https://github.com/audionamix/rtff)
 - [ ] [PortMidi/portmidi](https://github.com/dirkarnez/portmidi-prebuilt), WIP
