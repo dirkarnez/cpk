@@ -141,7 +141,8 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [ ] [g-truc/glm: OpenGL Mathematics (GLM)](https://github.com/g-truc/glm), WIP
     - `v0.9.9`
 - [ ] [OpenVPN/openvpn: OpenVPN is an open source VPN daemon](https://github.com/OpenVPN/openvpn)
-- [ ] [VTK / VTK · GitLab](https://gitlab.kitware.com/vtk/vtk/)
+- [ ] [Kitware/VTK](https://github.com/dirkarnez/VTK-prebuilt), WIP
+    - `v9.2.2`
 - [ ] [MetaLogic Inference - Summary [Savannah]](https://savannah.gnu.org/projects/metalogic-inference)
 - [ ] [v8/v8: The official mirror of the V8 Git repository](https://github.com/v8/v8)
 - [ ] [openMVG/openMVG: open Multiple View Geometry library. Basis for 3D computer vision and Structure from Motion.](https://github.com/openMVG/openMVG)
