@@ -51,6 +51,7 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [ ] [zsiciarz/aquila](https://github.com/dirkarnez/aquila-prebuilt), WIP
     - `cd5e3bde3c8d07678a95f225b657a7bb23d0c4730`
 - [ ] [ImageMagick/ImageMagick: 🧙‍♂️ ImageMagick 7](https://github.com/ImageMagick/ImageMagick)
+- [ ] [sreiter/ProMesh: Grid generation for scientific computations](https://github.com/sreiter/ProMesh)
 - [ ] [lipnitsk/libcue](https://github.com/dirkarnez/libcue-prebuilt), WIP
     - `v2.2.1`
 - [ ] [sreiter/stl_reader](https://github.com/dirkarnez/stl_reader-prebuilt), WIP
