@@ -58,6 +58,7 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [ ] [fmtlib/fmt](https://github.com/dirkarnez/fmt-prebuilt), WIP
     - `v9.1.0`
 - [ ] [audionamix/wave: Simple C++ library for reading and writting wave files](https://github.com/audionamix/wave)
+- [ ] [UG4/ugcore: The core functionality of UG4. Includes sources, build-scripts, and utility scripts.](https://github.com/UG4/ugcore)
 - [ ] [abseil/abseil-cpp: Abseil Common Libraries (C++)](https://github.com/abseil/abseil-cpp)
 - [ ] [sbellus/libmicrohttpd-cmake: The repository contains cmake build files for libmicrohttpd (https://www.gnu.org/software/libmicrohttpd/)](https://github.com/sbellus/libmicrohttpd-cmake)
 - [ ] [audionamix/auconv: An audio file conversion library](https://github.com/audionamix/auconv)
