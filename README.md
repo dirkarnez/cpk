@@ -53,6 +53,10 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [ ] [ImageMagick/ImageMagick: 🧙‍♂️ ImageMagick 7](https://github.com/ImageMagick/ImageMagick)
 - [ ] [lipnitsk/libcue](https://github.com/dirkarnez/libcue-prebuilt), WIP
     - `v2.2.1`
+- [ ] [sreiter/stl_reader](https://github.com/dirkarnez/stl_reader-prebuilt), WIP
+    - `v1.0.0`
+- [ ] [fmtlib/fmt](https://github.com/dirkarnez/fmt-prebuilt), WIP
+    - `v9.1.0`
 - [ ] [audionamix/wave: Simple C++ library for reading and writting wave files](https://github.com/audionamix/wave)
 - [ ] [abseil/abseil-cpp: Abseil Common Libraries (C++)](https://github.com/abseil/abseil-cpp)
 - [ ] [sbellus/libmicrohttpd-cmake: The repository contains cmake build files for libmicrohttpd (https://www.gnu.org/software/libmicrohttpd/)](https://github.com/sbellus/libmicrohttpd-cmake)
