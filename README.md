@@ -307,7 +307,7 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
     - ``
 - [ ] https://github.com/c-ares/c-ares.git
 - [ ] [curl/curl](https://github.com/dirkarnez/curl-prebuilt), WIP
-    - `v7.85.0`
+    - `v7.86.0`
 - [ ] https://github.com/curl/doh
 - [ ] https://www.gnutls.org/
 - [ ] https://github.com/rockdaboot/libpsl
