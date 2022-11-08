@@ -321,6 +321,9 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [ ] [openssl/openssl](https://github.com/dirkarnez/openssl-prebuilt), WIP
     - `v3.0.5`
 - [ ] [RaftLib/RaftLib: The RaftLib C++ library, streaming/dataflow concurrency via C++ iostream-like operators](https://github.com/RaftLib/RaftLib)
+- [ ] [Xiph.Org / flac · GitLab](https://github.com/dirkarnez/flac-prebuilt), WIP
+    - `v1.4.2`
+- [ ] [Xiph.Org / Ogg · GitLab](https://gitlab.xiph.org/xiph/ogg)
 - [ ] GNU Scientific Library
     - [ ] [ampl/gsl](https://github.com/dirkarnez/gsl-prebuilt), WIP
         - `v2.7.0`
@@ -356,3 +359,4 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [VideoLAN · GitLab](https://code.videolan.org/videolan)
 - [VTK · GitLab](https://gitlab.kitware.com/vtk)
 - [Kitware, Inc.](https://github.com/Kitware)
+- [Xiph.Org · GitLab](https://gitlab.xiph.org/xiph)
