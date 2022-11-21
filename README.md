@@ -67,6 +67,7 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [ ] [audionamix/auconv: An audio file conversion library](https://github.com/audionamix/auconv)
 - [ ] [audionamix/rtff: A real time frequential filtering library](https://github.com/audionamix/rtff)
 - [ ] [j256/dmalloc: Debug Malloc memory allocation debugging C library](https://github.com/j256/dmalloc)
+- [ ] [microsoft/wil](https://github.com/dirkarnez/wil-prebuilt)
 - [ ] [PortMidi/portmidi](https://github.com/dirkarnez/portmidi-prebuilt), WIP
     - `v2.0.4`
 - [ ] [PortAudio/portaudio](https://github.com/dirkarnez/portaudio-prebuilt), WIP
