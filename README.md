@@ -74,6 +74,8 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
     - `v2.0.4`
 - [ ] [PortAudio/portaudio](https://github.com/dirkarnez/portaudio-prebuilt), WIP
     - `v19.7.0`
+- [ ] [FITSIO Home Page](https://github.com/dirkarnez/cfitsio-prebuilt), WIP
+	- `v4.2.0`
 - [ ] [gflags/gflags: The gflags package contains a C++ library that implements commandline flags processing. It includes built-in support for standard types such as string and the ability to define flags in the source file in which they are used. Online documentation available at:](https://github.com/gflags/gflags)
 - [ ][gpg/libgpg-error](https://github.com/dirkarnez/libgpg-error-prebuilt), WIP
 	- `v1.46`
