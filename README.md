@@ -62,6 +62,8 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
     - `v1.0.0`
 - [ ] [fmtlib/fmt](https://github.com/dirkarnez/fmt-prebuilt), WIP
     - `v9.1.0`
+- [ ] [msteinbeck/tinyspline](https://github.com/dirkarnez/tinyspline-prebuilt), WIP
+	- `v0.5.0`
 - [ ] [audionamix/wave: Simple C++ library for reading and writting wave files](https://github.com/audionamix/wave)
 - [ ] [UG4/ugcore: The core functionality of UG4. Includes sources, build-scripts, and utility scripts.](https://github.com/UG4/ugcore)
 - [ ] [abseil/abseil-cpp: Abseil Common Libraries (C++)](https://github.com/abseil/abseil-cpp)
@@ -69,7 +71,8 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [ ] [audionamix/auconv: An audio file conversion library](https://github.com/audionamix/auconv)
 - [ ] [audionamix/rtff: A real time frequential filtering library](https://github.com/audionamix/rtff)
 - [ ] [j256/dmalloc: Debug Malloc memory allocation debugging C library](https://github.com/j256/dmalloc)
-- [ ] [microsoft/wil](https://github.com/dirkarnez/wil-prebuilt)
+- [ ] [microsoft/wil](https://github.com/dirkarnez/wil-prebuilt), WIP
+	- `v1.0.220914.1`
 - [ ] [PortMidi/portmidi](https://github.com/dirkarnez/portmidi-prebuilt), WIP
     - `v2.0.4`
 - [ ] [PortAudio/portaudio](https://github.com/dirkarnez/portaudio-prebuilt), WIP
@@ -77,7 +80,7 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [ ] [FITSIO Home Page](https://github.com/dirkarnez/cfitsio-prebuilt), WIP
 	- `v4.2.0`
 - [ ] [gflags/gflags: The gflags package contains a C++ library that implements commandline flags processing. It includes built-in support for standard types such as string and the ability to define flags in the source file in which they are used. Online documentation available at:](https://github.com/gflags/gflags)
-- [ ][gpg/libgpg-error](https://github.com/dirkarnez/libgpg-error-prebuilt), WIP
+- [ ] [gpg/libgpg-error](https://github.com/dirkarnez/libgpg-error-prebuilt), WIP
 	- `v1.46`
 - [ ] [cycfi/q](https://github.com/dirkarnez/q-prebuilt)
 - [ ] [facebookincubator/MY_ENUM: Small c++ macro library to add compile-time introspection to c++ enum classes.](https://github.com/facebookincubator/MY_ENUM)
