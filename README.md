@@ -89,6 +89,8 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [ ] [gnuradio/gnuradio: GNU Radio – the Free and Open Software Radio Ecosystem](https://github.com/gnuradio/gnuradio)
 - [ ] [g-truc/glm: OpenGL Mathematics (GLM)](https://github.com/dirkarnez/glm-prebuilt), WIP
 	- `cfc8f4bb442b9540969f2f3f351c4960d91bca17a`, WIP
+- [ ] [pradeep-pyro/tinynurbs: C++ library for NURBS curves and surfaces](https://github.com/dirkarnez/tinynurbs-prebuilt), WIP
+	- `c98ab6e55ffa441d7471f4ef39f520eaf712b2d74`
 - [ ] [videolan/x264](https://github.com/dirkarnez/x264-prebuilt), WIP
     - `cbaee400fa9ced6f5481a728138fed6e867b0ff7f`
 - [ ] [Download Xpdf and XpdfReader](https://www.xpdfreader.com/download.html)
