@@ -50,6 +50,8 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
     - `v1.5.2`
 - [ ] [zsiciarz/aquila](https://github.com/dirkarnez/aquila-prebuilt), WIP
     - `cd5e3bde3c8d07678a95f225b657a7bb23d0c4730`
+- [ ] [maxbachmann/rapidfuzz-cpp](https://github.com/dirkarnez/rapidfuzz-cpp-prebuilt), WIP
+	- `v1.10.1`
 - [ ] [ImageMagick/ImageMagick: 🧙‍♂️ ImageMagick 7](https://github.com/ImageMagick/ImageMagick)
 - [ ] [sreiter/ProMesh: Grid generation for scientific computations](https://github.com/sreiter/ProMesh)
 - [ ] [Voro++ - A 3D Voronoi cell software library](https://github.com/dirkarnez/voropp-prebuilt), WIP
