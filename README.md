@@ -60,6 +60,8 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
     - `v3.100.0`
 - [ ] [lipnitsk/libcue](https://github.com/dirkarnez/libcue-prebuilt), WIP
     - `v2.2.1`
+- [ ] [jfalcou/kumi: C++20 Compact Tuple Tools](https://github.com/dirkarnez/kumi-prebuilt), WIP
+    - `v3.0`
 - [ ] [sreiter/stl_reader](https://github.com/dirkarnez/stl_reader-prebuilt), WIP
     - `v1.0.0`
 - [ ] [fmtlib/fmt](https://github.com/dirkarnez/fmt-prebuilt), WIP
