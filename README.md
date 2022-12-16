@@ -48,6 +48,8 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
     - `v2.0.7`
 - [ ] [facebook/zstd](https://github.com/dirkarnez/zstd-prebuilt), WIP
     - `v1.5.2`
+- [ ] [zherczeg/sljit](https://github.com/dirkarnez/sljit-prebuilt)', WIP
+    - `cfaecd2b12f3e1119019255ca547f7db5c8627a7d`
 - [ ] [zsiciarz/aquila](https://github.com/dirkarnez/aquila-prebuilt), WIP
     - `cd5e3bde3c8d07678a95f225b657a7bb23d0c4730`
 - [ ] [maxbachmann/rapidfuzz-cpp](https://github.com/dirkarnez/rapidfuzz-cpp-prebuilt), WIP
