@@ -58,6 +58,8 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 	- `v0.4.6`
 - [ ] [LAME](https://github.com/dirkarnez/lame-prebuilt), WIP
     - `v3.100.0`
+- [ ] [uchardet/uchardet](https://github.com/dirkarnez/uchardet-prebuilt)
+    - `v0.0.8`
 - [ ] [lipnitsk/libcue](https://github.com/dirkarnez/libcue-prebuilt), WIP
     - `v2.2.1`
 - [ ] [jfalcou/kumi: C++20 Compact Tuple Tools](https://github.com/dirkarnez/kumi-prebuilt), WIP
@@ -374,6 +376,7 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 
 ### TODO
 - [GNOME · GitLab](https://gitlab.gnome.org/GNOME)
+- [freedesktop · Groups · Explore · GitLab](https://gitlab.freedesktop.org/explore/groups)
 - [GnuWin32 Packages](https://gnuwin32.sourceforge.net/packages.html)
 - [VideoLAN · GitLab](https://code.videolan.org/videolan)
 - [VTK · GitLab](https://gitlab.kitware.com/vtk)
