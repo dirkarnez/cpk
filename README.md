@@ -52,6 +52,8 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
     - `cfaecd2b12f3e1119019255ca547f7db5c8627a7d`
 - [ ] [zsiciarz/aquila](https://github.com/dirkarnez/aquila-prebuilt), WIP
     - `cd5e3bde3c8d07678a95f225b657a7bb23d0c4730`
+- [ ] [zxing-cpp/zxing-cpp](https://github.com/dirkarnez/zxing-cpp-prebuilt), WIP
+    - `v1.4.0`
 - [ ] [maxbachmann/rapidfuzz-cpp](https://github.com/dirkarnez/rapidfuzz-cpp-prebuilt), WIP
 	- `v1.10.1`
 - [ ] [ImageMagick/ImageMagick: 🧙‍♂️ ImageMagick 7](https://github.com/ImageMagick/ImageMagick)
