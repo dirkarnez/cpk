@@ -72,6 +72,8 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
     - `v1.0.0`
 - [ ] [fmtlib/fmt](https://github.com/dirkarnez/fmt-prebuilt), WIP
     - `v9.1.0`
+- [ ] [arximboldi/lager](https://github.com/dirkarnez/lager-prebuilt), WIP
+    - `c05e4ffda3eb1a4158eb678f21fbfc00e96a8c95d`
 - [ ] [msteinbeck/tinyspline](https://github.com/dirkarnez/tinyspline-prebuilt), WIP
 	- `v0.5.0`
 - [ ] [audionamix/wave: Simple C++ library for reading and writting wave files](https://github.com/audionamix/wave)
