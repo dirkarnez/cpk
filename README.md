@@ -58,6 +58,8 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 	- `v1.10.1`
 - [ ] [ImageMagick/ImageMagick: 🧙‍♂️ ImageMagick 7](https://github.com/ImageMagick/ImageMagick)
 - [ ] [sreiter/ProMesh: Grid generation for scientific computations](https://github.com/sreiter/ProMesh)
+- [ ] [socketio/socket.io-client-cpp](https://github.com/dirkarnez/socket.io-client-cpp-prebuilt), WIP
+	- `v3.1.0`
 - [ ] [Voro++ - A 3D Voronoi cell software library](https://github.com/dirkarnez/voropp-prebuilt), WIP
 	- `v0.4.6`
 - [ ] [LAME](https://github.com/dirkarnez/lame-prebuilt), WIP
