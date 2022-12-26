@@ -62,6 +62,8 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [ ] [sreiter/ProMesh: Grid generation for scientific computations](https://github.com/sreiter/ProMesh)
 - [ ] [socketio/socket.io-client-cpp](https://github.com/dirkarnez/socket.io-client-cpp-prebuilt), WIP
 	- `v3.1.0`
+- [ ] [CGAL/cgal](https://github.com/dirkarnez/cgal-prebuilt), WIP
+	- `v5.5.1`
 - [ ] [Voro++ - A 3D Voronoi cell software library](https://github.com/dirkarnez/voropp-prebuilt), WIP
 	- `v0.4.6`
 - [ ] [LAME](https://github.com/dirkarnez/lame-prebuilt), WIP
