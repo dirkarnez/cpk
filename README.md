@@ -104,6 +104,8 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [ ] [facebookincubator/MY_ENUM: Small c++ macro library to add compile-time introspection to c++ enum classes.](https://github.com/facebookincubator/MY_ENUM)
 - [ ] [yanyiwu/cppjieba](https://github.com/dirkarnez/cppjieba-prebuilt), WIP
     - `v5.0.3`
+- [ ] [wxWidgets/wxWidgets](https://github.com/dirkarnez/wxWidgets-prebuilt), WIP
+    - `v3.2.1`
 - [ ] [AshampooSystems/boden: Purely native C++ cross-platform GUI framework for Android and iOS development. https://www.boden.io](https://github.com/AshampooSystems/boden/)
 - [ ] [libsndfile/libsndfile: A C library for reading and writing sound files containing sampled audio data.](https://github.com/libsndfile/libsndfile), WIP
     - [dirkarnez/libsndfile-prebuilt](https://github.com/dirkarnez/libsndfile-prebuilt)
