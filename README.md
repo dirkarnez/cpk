@@ -253,7 +253,7 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
     - `v1.27`
 - [ ] UnQLite
 - [ ] [sqlite/sqlite](https://github.com/dirkarnez/sqlite-prebuilt), WIP
-    - `v3.39.4`
+    - `v3.40.1`
 - [ ] [open-mpi/ompi: Open MPI main development repository](https://github.com/open-mpi/ompi)
 - [ ] [OpenMP/sources: This repository contains supplementary source code for the OpenMP(R) API Specification.](https://github.com/OpenMP/sources)
 - [ ] [oneapi-src/oneTBB: oneAPI Threading Building Blocks (oneTBB)](https://github.com/oneapi-src/oneTBB)
