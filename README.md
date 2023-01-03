@@ -56,6 +56,8 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
     - `cd5e3bde3c8d07678a95f225b657a7bb23d0c4730`
 - [ ] [zxing-cpp/zxing-cpp](https://github.com/dirkarnez/zxing-cpp-prebuilt), WIP
     - `v1.4.0`
+- [ ] [XZ Utils | SourceForge.net](https://github.com/dirkarnez/xz-prebuilt), WIP
+	- `v5.4.0`
 - [ ] [coin-or/CppAD](https://github.com/dirkarnez/cppad-prebuilt), WIP
     - `stable/20210000`
 - [ ] [maxbachmann/rapidfuzz-cpp](https://github.com/dirkarnez/rapidfuzz-cpp-prebuilt), WIP
