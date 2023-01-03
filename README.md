@@ -70,6 +70,8 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 	- `v0.4.6`
 - [ ] [LAME](https://github.com/dirkarnez/lame-prebuilt), WIP
     - `v3.100.0`
+- [ ] [Independent JPEG Group](https://github.com/dirkarnez/libjpeg-prebuilt), WIP
+	- `v9e`
 - [ ] [uchardet/uchardet](https://github.com/dirkarnez/uchardet-prebuilt)
     - `v0.0.8`
 - [ ] [lipnitsk/libcue](https://github.com/dirkarnez/libcue-prebuilt), WIP
