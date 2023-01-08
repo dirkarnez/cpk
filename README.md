@@ -56,6 +56,8 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
     - `cd5e3bde3c8d07678a95f225b657a7bb23d0c4730`
 - [ ] [zxing-cpp/zxing-cpp](https://github.com/dirkarnez/zxing-cpp-prebuilt), WIP
     - `v1.4.0`
+- [ ] [libuv/libuv](https://github.com/dirkarnez/libuv-prebuilt), WIP
+	- `v1.44.2`
 - [ ] [XZ Utils | SourceForge.net](https://github.com/dirkarnez/xz-prebuilt), WIP
 	- `v5.4.0`
 - [ ] [coin-or/CppAD](https://github.com/dirkarnez/cppad-prebuilt), WIP
@@ -382,7 +384,6 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [ ] [andrew-gresyk/HFSM2: High-Performance Hierarchical Finite State Machine Framework](https://github.com/andrew-gresyk/HFSM2)
 - [ ] [agenium-scale/nsimd: Agenium Scale vectorization library for CPUs and GPUs](https://github.com/agenium-scale/nsimd/)
 - [ ] [jfalcou/eve: Expressive Vector Engine - SIMD in C++ Goes Brrrr](https://github.com/jfalcou/eve)
-- [ ] [libuv/libuv: Cross-platform asynchronous I/O](https://github.com/libuv/libuv)
 - [ ] [dmlc/xgboost: Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow](https://github.com/dmlc/xgboost)
 - [ ] [freedesktop/cairo: cairo's central repository](https://github.com/freedesktop/cairo)
 - [ ] [hselasky/libumidi: MIDI file and interface library](https://github.com/hselasky/libumidi)
