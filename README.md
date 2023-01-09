@@ -74,6 +74,8 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 	- `v0.4.6`
 - [ ] [LAME](https://github.com/dirkarnez/lame-prebuilt), WIP
     - `v3.100.0`
+- [ ] [json-c/json-c](https://github.com/dirkarnez/json-c-prebuilt), WIP
+	- `v0.16`
 - [ ] [Independent JPEG Group](https://github.com/dirkarnez/libjpeg-prebuilt), WIP
 	- `v9e`
 - [ ] [uchardet/uchardet](https://github.com/dirkarnez/uchardet-prebuilt)
