@@ -48,6 +48,8 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
     - `v2.0.7`
 - [ ] [facebook/zstd](https://github.com/dirkarnez/zstd-prebuilt), WIP
     - `v1.5.2`
+- [ ] [ros/catkin](https://github.com/dirkarnez/catkin-prebuilt), WIP
+    - `v0.8.10`
 - [ ] [lief-project/LIEF](https://github.com/dirkarnez/LIEF-prebuilt), WIP
 	- `v0.12.3`
 - [ ] [zherczeg/sljit](https://github.com/dirkarnez/sljit-prebuilt)', WIP
@@ -405,3 +407,4 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [VTK · GitLab](https://gitlab.kitware.com/vtk)
 - [Kitware, Inc.](https://github.com/Kitware)
 - [Xiph.Org · GitLab](https://gitlab.xiph.org/xiph)
+- [ros2/ros2.repos at rolling · ros2/ros2](https://github.com/ros2/ros2/blob/rolling/ros2.repos)
