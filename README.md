@@ -66,6 +66,8 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
     - `stable/20210000`
 - [ ] [maxbachmann/rapidfuzz-cpp](https://github.com/dirkarnez/rapidfuzz-cpp-prebuilt), WIP
 	- `v1.10.1`
+- [ ] [soundtouch/soundtouch](https://github.com/dirkarnez/soundtouch-prebuilt), WIP
+	- `v2.3.1`
 - [ ] [ImageMagick/ImageMagick: 🧙‍♂️ ImageMagick 7](https://github.com/ImageMagick/ImageMagick)
 - [ ] [sreiter/ProMesh: Grid generation for scientific computations](https://github.com/sreiter/ProMesh)
 - [ ] [socketio/socket.io-client-cpp](https://github.com/dirkarnez/socket.io-client-cpp-prebuilt), WIP
