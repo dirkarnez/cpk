@@ -84,6 +84,8 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 	- `v9e`
 - [ ] [uchardet/uchardet](https://github.com/dirkarnez/uchardet-prebuilt)
     - `v0.0.8`
+- [ ] [dlbeer/quirc](https://github.com/dirkarnez/quirc-prebuilt), WIP
+    - `v1.1`
 - [ ] [lipnitsk/libcue](https://github.com/dirkarnez/libcue-prebuilt), WIP
     - `v2.2.1`
 - [ ] [jfalcou/kumi: C++20 Compact Tuple Tools](https://github.com/dirkarnez/kumi-prebuilt), WIP
