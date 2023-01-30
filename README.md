@@ -36,6 +36,8 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 	- `v2.5.1`
 - [ ] [alaingalvan/CrossWindow](https://github.com/dirkarnez/crosswindow-prebuilt), WIP
 	- `c3511e43d0bbdc5fd23b4717580cc47ad3df87e4c`
+- [ ] [alaingalvan/CrossWindow-Graphics](https://github.com/dirkarnez/crosswindow-graphics-prebuilt), WIP
+	- `c28022e3ba565a975e8bf6dada1aa605c6f73a848`
 - [ ] [cycfi/elements](https://github.com/dirkarnez/elements-prebuilt), WIP
 	- `cd7106afe85fe99c28a3d7314a7ea5d3bd50e9c84`
 - [ ] [dacap/clip](https://github.com/dirkarnez/clip-prebuilt), WIP
