@@ -33,21 +33,23 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 
 ### Supporting libraries
 - [ ] [SFML](https://github.com/dirkarnez/sfml-prebuilt), WIP
-      - `v2.5.1`
+	- `v2.5.1`
+- [ ] [alaingalvan/CrossWindow](https://github.com/dirkarnez/crosswindow-prebuilt), WIP
+	- `c3511e43d0bbdc5fd23b4717580cc47ad3df87e4c`
 - [ ] [cycfi/elements](https://github.com/dirkarnez/elements-prebuilt), WIP
-    - `cd7106afe85fe99c28a3d7314a7ea5d3bd50e9c84`
+	- `cd7106afe85fe99c28a3d7314a7ea5d3bd50e9c84`
 - [ ] [dacap/clip](https://github.com/dirkarnez/clip-prebuilt), WIP
-    - `v1.4`
+	- `v1.4`
 - [ ] [GiovanniDicanio/WinReg](https://github.com/dirkarnez/WinReg-prebuilt), WIP
-    - `v4.1.2`
+	- `v4.1.2`
 - [ ] [sciplot/sciplot](https://github.com/dirkarnez/sciplot-prebuilt), WIP
-    - `v0.2.2`
+	- `v0.2.2`
 - [ ] [boostorg/boost](https://github.com/dirkarnez/boost-prebuilt), WIP
-    - `v1.80.0`
+	- `v1.80.0`
 - [ ] [arvidn/libtorrent](https://github.com/dirkarnez/libtorrent-prebuilt), WIP
-    - `v2.0.7`
+	- `v2.0.7`
 - [ ] [facebook/zstd](https://github.com/dirkarnez/zstd-prebuilt), WIP
-    - `v1.5.2`
+	- `v1.5.2`
 - [ ] [ros/catkin](https://github.com/dirkarnez/catkin-prebuilt), WIP
     - `v0.8.10`
 - [ ] [lief-project/LIEF](https://github.com/dirkarnez/LIEF-prebuilt), WIP
