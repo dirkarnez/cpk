@@ -56,6 +56,8 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
     - `v0.8.10`
 - [ ] [lief-project/LIEF](https://github.com/dirkarnez/LIEF-prebuilt), WIP
 	- `v0.12.3`
+- [ ] [xianyi/OpenBLAS](https://github.com/dirkarnez/openblas-prebuilt), WIP
+	- `v0.3.21`
 - [ ] [zherczeg/sljit](https://github.com/dirkarnez/sljit-prebuilt)', WIP
     - `cfaecd2b12f3e1119019255ca547f7db5c8627a7d`
 - [ ] [zsiciarz/aquila](https://github.com/dirkarnez/aquila-prebuilt), WIP
