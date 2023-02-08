@@ -305,7 +305,8 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [ ] [GNU gettext - Git Repositories [Savannah]](https://github.com/dirkarnez/gettext-prebuilt), WIP
 - [ ] [GNU libiconv - Git Repositories [Savannah]](https://github.com/dirkarnez/libiconv-prebuilt), WIP
 - [ ] [GNOME / libxml2 · GitLab](https://gitlab.gnome.org/GNOME/libxml2)
-- [ ] http://mpg123.org/
+- [ ] [http://mpg123.org/](https://github.com/dirkarnez/mpg123-prebuilt), WIP
+	- `c90e9d67613c506d599af806c81221c2e9dc77079`
 - [ ] https://github.com/LRN/ntldd
 - [ ] [LRN/libntlink: A library that implements symlink(), link(), unlink(), lstat() and readlink() on top of WinAPI](https://github.com/LRN/libntlink)
 - [ ] [gpg/gpg4win](https://github.com/gpg/gpg4win)
