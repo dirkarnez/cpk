@@ -56,6 +56,8 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 	- `v1.5.2`
 - [ ] [ros/catkin](https://github.com/dirkarnez/catkin-prebuilt), WIP
     - `v0.8.10`
+- [ ] [Dav1dde/glad](https://github.com/dirkarnez/glad2-prebuilt), WIP
+    - `v2.0.4` 
 - [ ] [lief-project/LIEF](https://github.com/dirkarnez/LIEF-prebuilt), WIP
 	- `v0.12.3`
 - [ ] [xianyi/OpenBLAS](https://github.com/dirkarnez/openblas-prebuilt), WIP
