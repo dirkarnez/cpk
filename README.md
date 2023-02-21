@@ -50,6 +50,8 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 	- `v1.80.0`
 - [ ] [arvidn/libtorrent](https://github.com/dirkarnez/libtorrent-prebuilt), WIP
 	- `v2.0.7`
+- [ ] [dpilger26/NumCpp](https://github.com/dirkarnez/NumCpp-prebuilt), WIP
+	- `v2.8.0`
 - [ ] [facebook/zstd](https://github.com/dirkarnez/zstd-prebuilt), WIP
 	- `v1.5.2`
 - [ ] [ros/catkin](https://github.com/dirkarnez/catkin-prebuilt), WIP
@@ -273,7 +275,8 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [ ] [OGRECave/ogre-next](https://github.com/OGRECave/ogre-next)
 - [ ] [lballabio/QuantLib](https://github.com/dirkarnez/quantlib-prebuilt), WIP
     - `v1.27`
-- [ ] UnQLite
+- [ ] [symisc/unqlite](https://github.com/dirkarnez/unqlite-prebuilt), WIP
+	- `v1.1.9`
 - [ ] [sqlite/sqlite](https://github.com/dirkarnez/sqlite-prebuilt), WIP
     - `v3.40.1`
 - [ ] [open-mpi/ompi: Open MPI main development repository](https://github.com/open-mpi/ompi)
