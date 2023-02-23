@@ -274,7 +274,8 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
     - `v6.0`
     - [dirkarnez/fuzzylite-boilerplate](https://github.com/dirkarnez/fuzzylite-boilerplate)
 - [ ] https://github.com/mlpack/mlpack
-- [ ] glfw
+- [ ] [glfw/glfw](https://github.com/dirkarnez/glfw-prebuilt), WIP
+	- `v3.3.8`
 - [ ] [thestk/rtaudio: A set of C++ classes that provide a common API for realtime audio input/output across Linux (native ALSA, JACK, PulseAudio and OSS), Macintosh OS X (CoreAudio and JACK), and Windows (DirectSound, ASIO, and WASAPI) operating systems.](https://github.com/thestk/rtaudio)
 - [ ] [OGRECave/ogre-next](https://github.com/OGRECave/ogre-next)
 - [ ] [lballabio/QuantLib](https://github.com/dirkarnez/quantlib-prebuilt), WIP
