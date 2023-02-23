@@ -72,6 +72,8 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 	- `v1.44.2`
 - [ ] [XZ Utils | SourceForge.net](https://github.com/dirkarnez/xz-prebuilt), WIP
 	- `v5.4.0`
+- [ ] [erincatto/box2d](https://github.com/dirkarnez/box2d-prebuilt), WIP
+	- `v2.4.1`
 - [ ] [coin-or/CppAD](https://github.com/dirkarnez/cppad-prebuilt), WIP
     - `stable/20210000`
 - [ ] [maxbachmann/rapidfuzz-cpp](https://github.com/dirkarnez/rapidfuzz-cpp-prebuilt), WIP
