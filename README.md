@@ -52,6 +52,8 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 	- `v2.0.7`
 - [ ] [dpilger26/NumCpp](https://github.com/dirkarnez/NumCpp-prebuilt), WIP
 	- `v2.8.0`
+- [ ] [openbabel/openbabel](https://github.com/dirkarnez/openbabel-prebuilt), WIP
+	- `v3.1.1`
 - [ ] [facebook/zstd](https://github.com/dirkarnez/zstd-prebuilt), WIP
 	- `v1.5.2`
 - [ ] [ros/catkin](https://github.com/dirkarnez/catkin-prebuilt), WIP
