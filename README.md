@@ -46,6 +46,8 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 	- `v4.1.2`
 - [ ] [sciplot/sciplot](https://github.com/dirkarnez/sciplot-prebuilt), WIP
 	- `v0.2.2`
+- [ ] [ufbx/ufbx](https://github.com/dirkarnez/ufbx-prebuilt), WIP
+	- `v0.3.1`
 - [ ] [boostorg/boost](https://github.com/dirkarnez/boost-prebuilt), WIP
 	- `v1.80.0`
 - [ ] [arvidn/libtorrent](https://github.com/dirkarnez/libtorrent-prebuilt), WIP
