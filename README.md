@@ -62,6 +62,8 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
     - `v0.8.10`
 - [ ] [Dav1dde/glad](https://github.com/dirkarnez/glad2-prebuilt), WIP
     - `v2.0.4` 
+- [ ] [BaguetteFramboise/miroir](https://github.com/dirkarnez/miroir-prebuilt), WIP
+    - `c19c43c909fa621cc8adb23cdc3616b18a121dd85` 
 - [ ] [lief-project/LIEF](https://github.com/dirkarnez/LIEF-prebuilt), WIP
 	- `v0.12.3`
 - [ ] [xianyi/OpenBLAS](https://github.com/dirkarnez/openblas-prebuilt), WIP
