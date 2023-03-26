@@ -34,6 +34,8 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 ### Supporting libraries
 - [ ] [SFML](https://github.com/dirkarnez/sfml-prebuilt), WIP
 	- `v2.5.1`
+- [ ] [juce-framework/JUCE](https://github.com/dirkarnez/JUCE-prebuilt), WIP
+	- `v7.0.5`
 - [ ] [steinbergmedia/vst3sdk](https://github.com/dirkarnez/vst3sdk-prebuilt), WIP
 	- `v3.7.7_build_19`
 - [ ] [alaingalvan/CrossWindow](https://github.com/dirkarnez/crosswindow-prebuilt), WIP
