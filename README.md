@@ -36,6 +36,28 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 	- `v2.5.1`
 - [ ] [juce-framework/JUCE](https://github.com/dirkarnez/JUCE-prebuilt), WIP
 	- `v7.0.5`
+- [ ] [KhronosGroup/OpenCL-SDK](https://github.com/dirkarnez/opencl-prebuilt), WIP
+	- `v2023.02.06`
+- [ ] [antlr/antlr4/runtime/Cpp](https://github.com/dirkarnez/antlr4-runtime-prebuilt), WIP
+	- `v4.11.1`
+- [ ] [yhirose/cpp-peglib](https://github.com/dirkarnez/cpp-peglib-prebuilt), WIP
+	- `v1.8.3`
+- [ ] [johnmcfarlane/cnl](https://github.com/dirkarnez/cnl-prebuilt), WIP
+	- `v1.1.7`
+- [ ] [MikeLankamp/fpm](https://github.com/dirkarnez/fpm-prebuilt), WIP
+	- `c19ad7a3336e2ec0d7faa9da5232398873b555cfb`
+- [ ] [erincatto/box2d](https://github.com/dirkarnez/box2d-prebuilt), WIP
+	- `v2.4.1`
+- [ ] [knik0/faac](https://github.com/dirkarnez/faac-prebuilt), WIP
+	- `v1.30`
+- [ ] [rsta2/circle](https://github.com/dirkarnez/rsta2-circle-prebuilt), WIP
+	- `step45.1`
+- [ ] [ufbx/ufbx](https://github.com/dirkarnez/ufbx-prebuilt), WIP
+	- `v0.3.1`
+- [ ] [BaguetteFramboise/miroir](https://github.com/dirkarnez/miroir-prebuilt), WIP
+	- `c19c43c909fa621cc8adb23cdc3616b18a121dd85`
+- [ ] [recastnavigation/recastnavigation](https://github.com/dirkarnez/recastnavigation-prebuilt), WIP
+	- `c8e9c308afd0fc6f7b8d8a76dbb8f905e41cb1425`
 - [ ] [steinbergmedia/vst3sdk](https://github.com/dirkarnez/vst3sdk-prebuilt), WIP
 	- `v3.7.7_build_19`
 - [ ] [alaingalvan/CrossWindow](https://github.com/dirkarnez/crosswindow-prebuilt), WIP
@@ -268,7 +290,8 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [ ] [FreeGLUTProject/freeglut](https://github.com/dirkarnez/freeglut-prebuilt), WIP
     - `v3.2.2`
 - [ ] [FreeImage download | SourceForge.net](https://sourceforge.net/projects/freeimage/)
-- [ ] https://glew.sourceforge.net/
+- [ ] [nigels-com/glew][dirkarnez/glew-prebuilt](https://github.com/dirkarnez/glew-prebuilt), WIP
+    - `v2.2.0`
 - [ ] [taocpp/PEGTL](https://github.com/dirkarnez/pegtl-prebuilt), WIP
     - `v3.2.7`
 - [ ] [libjpeg-turbo/libjpeg-turbo](https://github.com/dirkarnez/libjpeg-turbo-prebuilt), WIP
