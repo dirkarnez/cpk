@@ -34,6 +34,8 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 ### Supporting libraries
 - [ ] [SFML](https://github.com/dirkarnez/sfml-prebuilt), WIP
 	- `v2.5.1`
+- [ ] [raysan5/raylib](https://github.com/dirkarnez/raylib-prebuilt), WIP
+	- `v4.5.0`
 - [ ] [juce-framework/JUCE](https://github.com/dirkarnez/JUCE-prebuilt), WIP
 	- `v7.0.5`
 - [ ] [KhronosGroup/OpenCL-SDK](https://github.com/dirkarnez/opencl-prebuilt), WIP
