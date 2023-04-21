@@ -34,6 +34,8 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 ### Supporting libraries
 - [ ] [SFML](https://github.com/dirkarnez/sfml-prebuilt), WIP
 	- `v2.5.1`
+- [ ] [p-ranav/csv2: Fast CSV parser and writer for Modern C++](https://github.com/dirkarnez/csv2-prebuilt), WIP
+	- `v0.1`
 - [ ] [p-ranav/alpaca: Serialization library written in C++17 - Pack C++ structs into a compact byte-array without any macros or boilerplate code](https://github.com/dirkarnez/alpaca-prebuilt), WIP
 	- `v0.2.1`
 - [ ] [p-ranav/argparse: Argument Parser for Modern C++](https://github.com/dirkarnez/argparse-prebuilt), WIP
