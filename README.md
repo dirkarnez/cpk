@@ -34,6 +34,8 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 ### Supporting libraries
 - [ ] [SFML](https://github.com/dirkarnez/sfml-prebuilt), WIP
 	- `v2.5.1`
+- [ ] [p-ranav/argparse: Argument Parser for Modern C++](https://github.com/dirkarnez/argparse-prebuilt), WIP
+	- `v2.9`
 - [ ] [tesseract-ocr/tesseract](https://github.com/dirkarnez/tesseract-prebuilt), WIP
 	- `v5.3.1`
 - [ ] [raysan5/raylib](https://github.com/dirkarnez/raylib-prebuilt), WIP
