@@ -34,6 +34,8 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 ### Supporting libraries
 - [ ] [SFML](https://github.com/dirkarnez/sfml-prebuilt), WIP
 	- `v2.5.1`
+- [ ] [liballeg/allegro5](https://github.com/dirkarnez/allegro5-prebuilt), WIP
+	- `v5.2.8.0`
 - [ ] [xissburg/edyn](https://github.com/xissburg/edyn), WIP
 	- `v1.2.1`
 - [ ] [skypjack/entt](https://github.com/dirkarnez/entt-prebuilt), WIP
