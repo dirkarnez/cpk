@@ -209,7 +209,7 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [ ] [oberhumer.com: LZO real-time data compression library], WIP
     - `v2.10`
 - [ ] [libexpat/libexpat](https://github.com/dirkarnez/libexpat-prebuilt), WIP
-    - `v2.4.9`
+    - `v2.5.0`
 - [ ] [libffi/libffi](https://github.com/dirkarnez/libffi-prebuilt), WIP
     - `v3.4.3`
 - [ ] [enzo1982/mp4v2](https://github.com/dirkarnez/mp4v2-prebuilt), WIP
@@ -379,7 +379,7 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [ ] [oatpp/oatpp](https://github.com/dirkarnez/oatpp-prebuilt), WIP
     - `v1.3.0`
 - [ ] [madler/zlib](https://github.com/dirkarnez/zlib-prebuilt), WIP
-    - `v1.2.12`
+    - `v1.2.13`
 - [ ] OpenMP
 - [ ] https://github.com/steven-varga/h5cpp
 - [ ] [GMP](https://github.com/dirkarnez/gmp-prebuilt), WIP
@@ -408,6 +408,8 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [ ] https://github.com/libevent/libevent
     - https://github.com/dirkarnez/libevent-prebuilt
 - [ ] https://github.com/the-tcpdump-group/libpcap
+- [ ] [Exiv2/exiv2](https://github.com/dirkarnez/exiv2-prebuilt), WIP
+    - `v0.27.6`
 - [ ] [protocolbuffers/protobuf](https://github.com/dirkarnez/protobuf-prebuilt), WIP
     - `v21.7`
 - [ ] https://github.com/USCiLab/cereal
@@ -423,7 +425,7 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
     - ``
 - [ ] https://github.com/c-ares/c-ares.git
 - [ ] [curl/curl](https://github.com/dirkarnez/curl-prebuilt), WIP
-    - `v7.86.0`
+    - `v8.0.1`
 - [ ] https://github.com/curl/doh
 - [ ] https://www.gnutls.org/
 - [ ] https://github.com/rockdaboot/libpsl
