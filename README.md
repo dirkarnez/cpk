@@ -34,6 +34,8 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 ### Supporting libraries
 - [ ] [SFML](https://github.com/dirkarnez/sfml-prebuilt), WIP
 	- `v2.5.1`
+- [ ] [libAudioFlux/audioFlux](https://github.com/dirkarnez/audioFlux-prebuilt), WIP
+	- `v0.1.6`
 - [ ] [LibRaw/LibRaw](https://github.com/dirkarnez/LibRaw-prebuilt), WIP
 	- `v0.21.1`
 - [ ] [liballeg/allegro5](https://github.com/dirkarnez/allegro5-prebuilt), WIP
