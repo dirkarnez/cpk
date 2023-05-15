@@ -34,6 +34,8 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 ### Supporting libraries
 - [ ] [SFML](https://github.com/dirkarnez/sfml-prebuilt), WIP
 	- `v2.5.1`
+- [ ] [PetteriAimonen/libfixmath: Cross Platform Fixed Point Maths Library](https://github.com/dirkarnez/libfixmath-prebuilt), WIP
+	- `c9457f48b5caa955b9675b61c99bd27b9e0093dcb`
 - [ ] [RoutingKit/RoutingKit](https://github.com/dirkarnez/RoutingKit-prebuilt), WIP
 	- `c13bc2f49f41d2e8a750a299487705ca7217d634d`
 - [ ] [libAudioFlux/audioFlux](https://github.com/dirkarnez/audioFlux-prebuilt), WIP
