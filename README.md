@@ -34,6 +34,8 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 ### Supporting libraries
 - [ ] [SFML](https://github.com/dirkarnez/sfml-prebuilt), WIP
 	- `v2.5.1`
+- [ ] [Libmicrohttpd - GNU Project - Free Software Foundation](https://github.com/dirkarnez/libmicrohttpd-prebuilt), WIP
+	- `v0.9.77`
 - [ ] [qhull/qhull](https://github.com/dirkarnez/qhull-prebuilt), WIP
 	- `v8.0.2`
 - [ ] [wjakob/nanogui: Minimalistic GUI library for OpenGL](https://github.com/dirkarnez/nanogui-prebuilt), WIP
