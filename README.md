@@ -34,8 +34,12 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 ### Supporting libraries
 - [ ] [SFML](https://github.com/dirkarnez/sfml-prebuilt), WIP
 	- `v2.5.1`
+- [ ] [lvgl/lvgl](https://github.com/dirkarnez/lvgl-prebuilt), WIP
+	- `v8.3.9`
 - [ ] [casbin/casbin-cpp](https://github.com/dirkarnez/casbin-cpp-prebuilt), WIP
 	- `v1.52.3`
+- [ ] [Monkey's Audio - a fast and powerful lossless audio compressor](https://github.com/dirkarnez/monkeysaudio-prebuilt), WIP
+	- `v10.18` 
 - [ ] [Libmicrohttpd - GNU Project - Free Software Foundation](https://github.com/dirkarnez/libmicrohttpd-prebuilt), WIP
 	- `v0.9.77`
 - [ ] [qhull/qhull](https://github.com/dirkarnez/qhull-prebuilt), WIP
