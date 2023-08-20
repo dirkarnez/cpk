@@ -36,6 +36,10 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 	- `v2.5.1`
 - [ ] [google/flatbuffers](https://github.com/dirkarnez/flatbuffers-prebuilt), WIP
 	- `v23.5.26`
+- [ ] [gpg/gpgme](https://github.com/dirkarnez/gpgme-prebuilt), WIP
+	- `v1.21.0`
+- [ ] [ledger/ledger](https://github.com/dirkarnez/ledger-prebuilt), WIP
+	- `v3.3.2`
 - [ ] [lvgl/lvgl](https://github.com/dirkarnez/lvgl-prebuilt), WIP
 	- `v8.3.9`
 - [ ] [casbin/casbin-cpp](https://github.com/dirkarnez/casbin-cpp-prebuilt), WIP
