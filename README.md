@@ -34,6 +34,8 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 ### Supporting libraries
 - [ ] [SFML](https://github.com/dirkarnez/sfml-prebuilt), WIP
 	- `v2.5.1`
+- [ ] [yhirose/cpp-httplib](https://github.com/dirkarnez/cpp-httplib-prebuilt), WIP
+	- `v0.14.0`
 - [ ] [google/flatbuffers](https://github.com/dirkarnez/flatbuffers-prebuilt), WIP
 	- `v23.5.26`
 - [ ] [gpg/gpgme](https://github.com/dirkarnez/gpgme-prebuilt), WIP
