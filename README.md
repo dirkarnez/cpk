@@ -34,6 +34,10 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 ### Supporting libraries
 - [ ] [SFML](https://github.com/dirkarnez/sfml-prebuilt), WIP
 	- `v2.5.1`
+- [ ] [jmcnamara/libxlsxwriter](https://github.com/dirkarnez/libxlsxwriter-prebuilt), WIP
+	- `v1.1.5`
+- [ ] [abseil/abseil-cpp](https://github.com/dirkarnez/abseil-cpp-prebuilt), WIP
+	- `v20230802.0`
 - [ ] [yhirose/cpp-httplib](https://github.com/dirkarnez/cpp-httplib-prebuilt), WIP
 	- `v0.14.0`
 - [ ] [google/flatbuffers](https://github.com/dirkarnez/flatbuffers-prebuilt), WIP
