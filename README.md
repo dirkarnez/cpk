@@ -34,6 +34,8 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 ### Supporting libraries
 - [ ] [SFML](https://github.com/dirkarnez/sfml-prebuilt), WIP
 	- `v2.5.1`
+- [ ] [jedisct1/libsodium](https://github.com/dirkarnez/libsodium-prebuilt), WIP
+	- `v1.0.19`
 - [ ] [jmcnamara/libxlsxwriter](https://github.com/dirkarnez/libxlsxwriter-prebuilt), WIP
 	- `v1.1.5`
 - [ ] [abseil/abseil-cpp](https://github.com/dirkarnez/abseil-cpp-prebuilt), WIP
