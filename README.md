@@ -36,6 +36,8 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 	- `v2.5.1`
 - [ ] [arximboldi/immer](https://github.com/dirkarnez/immer-prebuilt), WIP
 	- `v0.8.0`
+- [ ] [gnu/libunistring](https://github.com/dirkarnez/libunistring-prebuilt), WIP
+	- `v1.1`
 - [ ] [jedisct1/libsodium](https://github.com/dirkarnez/libsodium-prebuilt), WIP
 	- `v1.0.19`
 - [ ] [jmcnamara/libxlsxwriter](https://github.com/dirkarnez/libxlsxwriter-prebuilt), WIP
