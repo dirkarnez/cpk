@@ -34,6 +34,8 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 ### Supporting libraries
 - [ ] [SFML](https://github.com/dirkarnez/sfml-prebuilt), WIP
 	- `v2.5.1`
+- [ ] [https://www.hboehm.info/gc/](https://github.com/dirkarnez/gc-prebuilt), WIP
+	- `v8.2.2`
 - [ ] [arximboldi/immer](https://github.com/dirkarnez/immer-prebuilt), WIP
 	- `v0.8.0`
 - [ ] [gnu/libunistring](https://github.com/dirkarnez/libunistring-prebuilt), WIP
