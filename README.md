@@ -37,9 +37,11 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [ ] [sumatrapdfreader/chmlib](https://github.com/dirkarnez/chmlib-prebuilt), WIP
 	- `cbb2fdcce847abda23a4f9704ec7a2595e53382b3`
 - [ ] [microsoft/DirectXMath](https://github.com/dirkarnez/DirectXMath-prebuilt), WIP
-	- `v`
+	- `dec2022`
 - [ ] [microsoft/DirectXTK](https://github.com/dirkarnez/DirectXTK-prebuilt), WIP
-	- `v`
+	- `sept2023`
+- [ ] [dilawar/libsoda-cxx](https://github.com/dirkarnez/libsoda-cxx-prebuilt), WIP
+	- `v0.1.0`
 - [ ] [https://www.hboehm.info/gc/](https://github.com/dirkarnez/gc-prebuilt), WIP
 	- `v8.2.2`
 - [ ] [arximboldi/immer](https://github.com/dirkarnez/immer-prebuilt), WIP
