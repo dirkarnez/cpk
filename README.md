@@ -34,6 +34,8 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 ### Supporting libraries
 - [ ] [SFML](https://github.com/dirkarnez/sfml-prebuilt), WIP
 	- `v2.5.1`
+- [ ] [valhalla/valhalla](https://github.com/dirkarnez/valhalla-prebuilt), WIP
+	- `v3.4.0`
 - [ ] [sumatrapdfreader/chmlib](https://github.com/dirkarnez/chmlib-prebuilt), WIP
 	- `cbb2fdcce847abda23a4f9704ec7a2595e53382b3`
 - [ ] [microsoft/DirectXMath](https://github.com/dirkarnez/DirectXMath-prebuilt), WIP
