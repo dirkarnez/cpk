@@ -34,6 +34,8 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 ### Supporting libraries
 - [ ] [SFML](https://github.com/dirkarnez/sfml-prebuilt), WIP
 	- `v2.5.1`
+- [ ] [Tereius/libONVIF]()(https://github.com/dirkarnez/libONVIF-prebuilt), WIP
+	- `v2.0.1`
 - [ ] [DCMTK/dcmtk](https://github.com/dirkarnez/dcmtk-prebuilt), WIP
 	- `v3.6.7`
 - [ ] [valhalla/valhalla](https://github.com/dirkarnez/valhalla-prebuilt), WIP
