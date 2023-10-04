@@ -36,6 +36,8 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 	- `v2.5.1`
 - [ ] [dmlc/xgboost](https://github.com/dirkarnez/xgboost-prebuilt), WIP
 	- `v2.0.0`
+- [ ] [karthickai/serial](https://github.com/dirkarnez/serial-prebuilt), WIP
+	- `c55e4e3bfd90c84236f4d4f5743b1502d8e6cb43a`
 - [ ] [Quandela/QuandeLibC](https://github.com/dirkarnez/QuandeLibC-prebuilt), WIP
 	- `v0.6.0`
 - [ ] [Tereius/libONVIF]()(https://github.com/dirkarnez/libONVIF-prebuilt), WIP
