@@ -34,6 +34,8 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 ### Supporting libraries
 - [ ] [SFML](https://github.com/dirkarnez/sfml-prebuilt), WIP
 	- `v2.5.1`
+- [ ] [pjreddie/darknet](https://github.com/dirkarnez/darknet-prebuilt), WIP
+	- `cf6afaabcdf85f77e7aff2ec55c020c0e297c77f9`
 - [ ] [libressl/portable](https://github.com/dirkarnez/libressl-prebuilt), WIP
 	- `v3.8.1`
 - [ ] [dmlc/xgboost](https://github.com/dirkarnez/xgboost-prebuilt), WIP
