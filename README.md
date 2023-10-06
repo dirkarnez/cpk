@@ -34,6 +34,8 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 ### Supporting libraries
 - [ ] [SFML](https://github.com/dirkarnez/sfml-prebuilt), WIP
 	- `v2.5.1`
+- [ ] [libressl/portable](https://github.com/dirkarnez/libressl-prebuilt), WIP
+	- `v3.8.1`
 - [ ] [dmlc/xgboost](https://github.com/dirkarnez/xgboost-prebuilt), WIP
 	- `v2.0.0`
 - [ ] [karthickai/serial](https://github.com/dirkarnez/serial-prebuilt), WIP
