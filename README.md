@@ -34,6 +34,8 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 ### Supporting libraries
 - [ ] [SFML](https://github.com/dirkarnez/sfml-prebuilt), WIP
 	- `v2.5.1`
+- [ ] [apple-oss-distributions/zip (unzip)](https://github.com/dirkarnez/unzip-prebuilt), WIP
+	- `v6.0`
 - [ ] [codeplea/genann](https://github.com/dirkarnez/genann-prebuilt), WIP
 	- `v1.0.0`
 - [ ] [glouw/tinn: A tiny neural network library](https://github.com/dirkarnez/tinn-prebuilt), WIP
