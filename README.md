@@ -32,8 +32,10 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 3. `cpk` assumes there are version constraints (exact or ranged, **`master` should not be supported**)
 
 ### Supporting libraries
-- [ ] [SFML](https://github.com/dirkarnez/sfml-prebuilt), WIP
+- [ ] [SFML/SFML](https://github.com/dirkarnez/sfml-prebuilt), WIP
 	- `v2.5.1`
+- [ ] [libssh2/libssh2](https://github.com/dirkarnez/libssh2-prebuilt), WIP
+	- `v1.11.0`
 - [ ] [apple-oss-distributions/zip (unzip)](https://github.com/dirkarnez/unzip-prebuilt), WIP
 	- `v6.0`
 - [ ] [codeplea/genann](https://github.com/dirkarnez/genann-prebuilt), WIP
