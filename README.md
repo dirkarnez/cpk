@@ -34,6 +34,8 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 ### Supporting libraries
 - [ ] [SFML/SFML](https://github.com/dirkarnez/sfml-prebuilt), WIP
 	- `v2.5.1`
+- [ ] [giladreich/cmake-imgui](https://github.com/dirkarnez/cmake-imgui-prebuilt), WIP
+	- `v1.88`
 - [ ] [libssh2/libssh2](https://github.com/dirkarnez/libssh2-prebuilt), WIP
 	- `v1.11.0`
 - [ ] [apple-oss-distributions/zip (unzip)](https://github.com/dirkarnez/unzip-prebuilt), WIP
