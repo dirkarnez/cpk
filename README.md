@@ -34,6 +34,10 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 ### Supporting libraries
 - [ ] [SFML/SFML](https://github.com/dirkarnez/sfml-prebuilt), WIP
 	- `v2.5.1`
+- [ ] [xiaoyeli/superlu](https://github.com/dirkarnez/superlu-prebuilt), WIP
+	- `v6.0.1`
+- [ ] [xiaoyeli/superlu_dist][dirkarnez/superlu_dist-prebuilt](https://github.com/dirkarnez/superlu_dist-prebuilt), WIP
+	- `v8.1.`
 - [ ] [canonical/libssh](https://github.com/dirkarnez/libssh-prebuilt), WIP
 	- `v20.10.4`
 - [ ] [giladreich/cmake-imgui](https://github.com/dirkarnez/cmake-imgui-prebuilt), WIP
