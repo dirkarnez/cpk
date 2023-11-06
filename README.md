@@ -34,6 +34,8 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 ### Supporting libraries
 - [ ] [SFML/SFML](https://github.com/dirkarnez/sfml-prebuilt), WIP
 	- `v2.5.1`
+- [ ] [libocca/occa](https://github.com/dirkarnez/occa-prebuilt), WIP
+	- `v1.6.0`
 - [ ] [xiaoyeli/superlu](https://github.com/dirkarnez/superlu-prebuilt), WIP
 	- `v6.0.1`
 - [ ] [xiaoyeli/superlu_dist][dirkarnez/superlu_dist-prebuilt](https://github.com/dirkarnez/superlu_dist-prebuilt), WIP
