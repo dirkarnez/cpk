@@ -570,3 +570,4 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [ros2/ros2.repos at rolling · ros2/ros2](https://github.com/ros2/ros2/blob/rolling/ros2.repos)
 - [QEMU · GitLab](https://gitlab.com/qemu-project/)
 - [fleur / fleur · GitLab](https://iffgit.fz-juelich.de/fleur/fleur)
+- https://forge.etsi.org/rep/explore/groups
