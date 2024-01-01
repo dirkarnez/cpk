@@ -46,6 +46,8 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 	- `v1.88`
 - [ ] [canonical/raft](https://github.com/dirkarnez/raft-prebuilt), WIP
 	- `v0.18.0`
+- [ ] [praat/praat: Praat: Doing Phonetics By Computer](https://github.com/dirkarnez/praat-prebuilt)
+	- v6.4.02
 - [ ] [libssh2/libssh2](https://github.com/dirkarnez/libssh2-prebuilt), WIP
 	- `v1.11.0`
 - [ ] [apple-oss-distributions/zip (unzip)](https://github.com/dirkarnez/unzip-prebuilt), WIP
