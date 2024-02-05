@@ -34,6 +34,8 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 ### Supporting libraries
 - [ ] [SFML/SFML](https://github.com/dirkarnez/sfml-prebuilt), WIP
 	- `v2.5.1`
+- [ ] [ggerganov/whisper.cpp: Port of OpenAI's Whisper model in C/C++](https://github.com/dirkarnez/whisper.cpp-prebuilt), WIP
+	- `v1.5.4`
 - [ ] [libocca/occa](https://github.com/dirkarnez/occa-prebuilt), WIP
 	- `v1.6.0`
 - [ ] [xiaoyeli/superlu](https://github.com/dirkarnez/superlu-prebuilt), WIP
