@@ -40,8 +40,8 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 	- `v1.6.0`
 - [ ] [xiaoyeli/superlu](https://github.com/dirkarnez/superlu-prebuilt), WIP
 	- `v6.0.1`
-- [ ] [xiaoyeli/superlu_dist][dirkarnez/superlu_dist-prebuilt](https://github.com/dirkarnez/superlu_dist-prebuilt), WIP
-	- `v8.1.`
+- [ ] [xiaoyeli/superlu_dist](https://github.com/dirkarnez/superlu_dist-prebuilt), WIP
+	- `v8.1.2`
 - [ ] [canonical/libssh](https://github.com/dirkarnez/libssh-prebuilt), WIP
 	- `v20.10.4`
 - [ ] [giladreich/cmake-imgui](https://github.com/dirkarnez/cmake-imgui-prebuilt), WIP
