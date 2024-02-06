@@ -34,6 +34,8 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 ### Supporting libraries
 - [ ] [SFML/SFML](https://github.com/dirkarnez/sfml-prebuilt), WIP
 	- `v2.5.1`
+- [ ] [DaveGamble/cJSON: Ultralightweight JSON parser in ANSI C](https://github.com/dirkarnez/cJSON-prebuilt), WIP
+	- `v1.7.17`
 - [ ] [ggerganov/whisper.cpp: Port of OpenAI's Whisper model in C/C++](https://github.com/dirkarnez/whisper.cpp-prebuilt), WIP
 	- `v1.5.4`
 - [ ] [libocca/occa](https://github.com/dirkarnez/occa-prebuilt), WIP
@@ -68,7 +70,7 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 	- `c55e4e3bfd90c84236f4d4f5743b1502d8e6cb43a`
 - [ ] [Quandela/QuandeLibC](https://github.com/dirkarnez/QuandeLibC-prebuilt), WIP
 	- `v0.6.0`
-- [ ] [Tereius/libONVIF]()(https://github.com/dirkarnez/libONVIF-prebuilt), WIP
+- [ ] [Tereius/libONVIF](https://github.com/dirkarnez/libONVIF-prebuilt), WIP
 	- `v2.0.1`
 - [ ] [DCMTK/dcmtk](https://github.com/dirkarnez/dcmtk-prebuilt), WIP
 	- `v3.6.7`
