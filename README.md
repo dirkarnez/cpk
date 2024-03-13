@@ -58,6 +58,8 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 	- `v6.0`
 - [ ] [codeplea/genann](https://github.com/dirkarnez/genann-prebuilt), WIP
 	- `v1.0.0`
+- [ ] [mapbox/eternal: A C++14 compile-time/constexpr map and hash map with minimal binary footprint](https://github.com/dirkarnez/eternal-prebuilt), WIP
+	- `v1.0.1`
 - [ ] [glouw/tinn: A tiny neural network library](https://github.com/dirkarnez/tinn-prebuilt), WIP
 	- `c815225a8f11c7aff2f3d008cb19980f40dc60de6`
 - [ ] [pjreddie/darknet](https://github.com/dirkarnez/darknet-prebuilt), WIP
