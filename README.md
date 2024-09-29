@@ -34,6 +34,7 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 ### Supporting libraries
 - [ ] [SFML/SFML](https://github.com/dirkarnez/sfml-prebuilt), WIP
 	- `v2.5.1`
+- [ ] [libfive/libfive](https://github.com/dirkarnez/libfive-prebuilt)
 - [ ] [Themaister/libfmsynth: A C library which implements an FM synthesizer](https://github.com/dirkarnez/libfmsynth-prebuilt), WIP
 	- `cb989b5c0efd46b312ce4edd89808d34dc5135bb4`
 - [ ] [DaveGamble/cJSON: Ultralightweight JSON parser in ANSI C](https://github.com/dirkarnez/cJSON-prebuilt), WIP
