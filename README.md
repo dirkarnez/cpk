@@ -571,6 +571,8 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [ ] [freetype/freetype: Official mirror of https://gitlab.freedesktop.org/freetype/freetype](https://github.com/freetype/freetype)
 
 ### TODO
+- https://gitlab.freedesktop.org/dbus/dbus/
+- https://github.com/brianmcgillion/DBus/blob/master/README.win
 - [GNOME · GitLab](https://gitlab.gnome.org/GNOME)
 - [freedesktop · Groups · Explore · GitLab](https://gitlab.freedesktop.org/explore/groups)
 - [GnuWin32 Packages](https://gnuwin32.sourceforge.net/packages.html)
