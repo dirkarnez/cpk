@@ -576,6 +576,7 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [GNOME · GitLab](https://gitlab.gnome.org/GNOME)
 - [freedesktop · Groups · Explore · GitLab](https://gitlab.freedesktop.org/explore/groups)
 - [GnuWin32 Packages](https://gnuwin32.sourceforge.net/packages.html)
+- [scilab · GitLab](https://gitlab.com/scilab)
 - [VideoLAN · GitLab](https://code.videolan.org/videolan)
 - [VTK · GitLab](https://gitlab.kitware.com/vtk)
 - [Kitware, Inc.](https://github.com/Kitware)
