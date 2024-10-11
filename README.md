@@ -588,4 +588,5 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [QEMU · GitLab](https://gitlab.com/qemu-project/)
 - [fleur / fleur · GitLab](https://iffgit.fz-juelich.de/fleur/fleur)
 - https://forge.etsi.org/rep/explore/groups
+- [Cangjie - GitCode](https://gitcode.com/org/Cangjie/)
 - [QEMU · GitLab](https://gitlab.com/qemu-project/)
