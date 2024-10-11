@@ -460,6 +460,8 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 - [ ] [zeux/pugixml](https://github.com/dirkarnez/pugixml-prebuilt), WIP
 	- `v1.12.1`
 - [ ] https://github.com/STEllAR-GROUP/hpx/
+- [ ] [dirkarnez/git-prebuilt](https://github.com/dirkarnez/git-prebuilt), WIP
+- [ ] [dirkarnez/make-prebuilt](https://github.com/dirkarnez/make-prebuilt)
 - [ ] [GNU gettext - Git Repositories [Savannah]](https://github.com/dirkarnez/gettext-prebuilt), WIP
 - [ ] [GNU libiconv - Git Repositories [Savannah]](https://github.com/dirkarnez/libiconv-prebuilt), WIP
 - [ ] [GNOME / libxml2 · GitLab](https://gitlab.gnome.org/GNOME/libxml2)
