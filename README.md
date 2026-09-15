@@ -595,3 +595,6 @@ A real stupid C/C++ package manager for own studying (intended not to use other 
 	- https://git.informatik.uni-hamburg.de/sane-public/drasyl
 
 
+
+
+<!-- Security scan triggered at 2026-09-15 09:37:48 -->
